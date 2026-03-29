@@ -1,0 +1,492 @@
+[
+  {
+    "seq": 1,
+    "benchmark": "MMLU-Pro",
+    "ref_number": 295,
+    "ref_citation": "[295]",
+    "title": "MMLU-Pro: A Multitask Multilingual Language Understanding Benchmark",
+    "authors": "Y. Wang et al.",
+    "year": 2024,
+    "full_reference": "Y. Wang, X. Ma, G. Zhang, Y. Ni, A. Chandra, S. Guo, W. Ren,"
+  },
+  {
+    "seq": 2,
+    "benchmark": "HotpotQA",
+    "ref_number": 296,
+    "ref_citation": "[296]",
+    "title": "HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering",
+    "authors": "Z. Yang et al.",
+    "year": 2018,
+    "full_reference": "Z.Yang,P.Qi,S.Zhang,Y.Bengio,W.Cohen,R.Salakhutdinov,and agentsforopen-worldenvironmentsvialargelanguagemodelswith C.D.Manning,“Hotpotqa:Adatasetfordiverse,explainablemulti-hop text-basedknowledgeandmemory,”ar Xiv preprintar Xiv:2305.17144, questionanswering,”in Proceedingsofthe2018conferenceonempirical 2023. methodsinnaturallanguageprocessing, 2018,pp.2369–2380."
+  },
+  {
+    "seq": 3,
+    "benchmark": "MMLU",
+    "ref_number": 297,
+    "ref_citation": "[297]",
+    "title": "Measuring Massively Multitask Language Understanding",
+    "authors": "D. Hendrycks et al.",
+    "year": 2020,
+    "full_reference": "D.Hendrycks,C.Burns,S.Basart,A.Zou,M.Mazeika,D.Song,and J.Jiang,Y.Li et al.,“Cradle:Empoweringfoundationagentstowards J.Steinhardt,“Measuringmassivemultitasklanguageunderstanding,” generalcomputercontrol,”ar Xiv preprintar Xiv:2403.03186, 2024. ar Xiv preprintar Xiv:2009.03300, 2020."
+  },
+  {
+    "seq": 4,
+    "benchmark": "MuSiQue",
+    "ref_number": 298,
+    "ref_citation": "[298]",
+    "title": "MuSiQue: Multihop Questions via Single-hop Question Composition",
+    "authors": "H. Trivedi et al.",
+    "year": 2022,
+    "full_reference": "H.Trivedi,N.Balasubramanian,T.Khot,and A.Sabharwal,“Musique: M.Du,F.Li,S.Luo et al.,“Projectsid:Many-agentsimulationstoward Multihopquestionsviasingle-hopquestioncomposition,”Transactions aicivilization,”ar Xiv preprintar Xiv:2411.00114, 2024. ofthe Associationfor Computational Linguistics,vol.10,pp.539–554,"
+  },
+  {
+    "seq": 5,
+    "benchmark": "Natural Questions",
+    "ref_number": 299,
+    "ref_citation": "[299]",
+    "title": "Natural Questions: A Benchmark for Question Answering Research",
+    "authors": "T. Kwiatkowski et al.",
+    "year": 2019,
+    "full_reference": "T. Kwiatkowski, J. Palomaki, O. Redfield, M. Collins, A. Parikh, in Proceedingsofthe36thannualacmsymposiumonuserinterface C.Alberti,D.Epstein,I.Polosukhin,J.Devlin,K.Lee et al.,“Natural softwareandtechnology, 2023,pp.1–22. questions:abenchmarkforquestionansweringresearch,”Transactions"
+  },
+  {
+    "seq": 6,
+    "benchmark": "TriviaQA",
+    "ref_number": 300,
+    "ref_citation": "[300]",
+    "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+    "authors": "M. Joshi et al.",
+    "year": 2017,
+    "full_reference": "M.Joshi,E.Choi,D.S.Weld,and L.Zettlemoyer,“Triviaqa:Alarge ar Xiv:2512.04797, 2025. scaledistantlysupervisedchallengedatasetforreadingcomprehension,”"
+  },
+  {
+    "seq": 7,
+    "benchmark": "PopQA",
+    "ref_number": 301,
+    "ref_citation": "[301]",
+    "title": "When Not to Trust Language Models: Investigating Effectiveness of Parametric and Non-parametric Memories",
+    "authors": "A. Mallen et al.",
+    "year": 2023,
+    "full_reference": "A.Mallen,A.Asai,V.Zhong,R.Das,D.Khashabi,and H.Hajishirzi, “Genie:Generativeinteractiveenvironments,”in Forty-first International “When not to trust language models: Investigating effectiveness of Conferenceon Machine Learning, 2024. parametricandnon-parametricmemories,”in Proceedingsofthe61st"
+  },
+  {
+    "seq": 8,
+    "benchmark": "2WikiMultiHopQA",
+    "ref_number": 302,
+    "ref_citation": "[302]",
+    "title": "Constructing Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+    "authors": "X. Ho et al.",
+    "year": 2020,
+    "full_reference": "X.Ho,A.-K.D.Nguyen,S.Sugawara,and A.Aizawa,“Constructing Information Processing Systems,vol.36,pp.68539–68551, 2023. amulti-hopqadatasetforcomprehensiveevaluationofreasoningsteps,”"
+  },
+  {
+    "seq": 9,
+    "benchmark": "BigBench-Hard",
+    "ref_number": 303,
+    "ref_citation": "[303]",
+    "title": "Challenging Big-Bench Tasks by Measuring School Out-of-Distribution Generalization",
+    "authors": "M. Suzgun et al.",
+    "year": 2022,
+    "full_reference": "M.Suzgun,N.Scales,N.Scha¨rli,S.Gehrmann,Y.Tay,H.W.Chung, artificialintelligence,”Nature,vol.620,no.7972,pp.47–60, 2023. A.Chowdhery,Q.Le,E.Chi,D.Zhou et al.,“Challengingbig-bench"
+  },
+  {
+    "seq": 10,
+    "benchmark": "AGIEval",
+    "ref_number": 304,
+    "ref_citation": "[304]",
+    "title": "AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models",
+    "authors": "W. Zhong et al.",
+    "year": 2024,
+    "full_reference": "W.Zhong,R.Cui,Y.Guo,Y.Liang,S.Lu,Y.Wang,A.Saied,W.Chen, comprehensive survey of scientific large language models and their and N. Duan, “Agieval: A human-centric benchmark for evaluating applicationsinscientificdiscovery,”ar Xiv preprintar Xiv:2406.10833, foundationmodels,”in Findingsofthe Associationfor Computational 2024. Linguistics:NAACL2024, 2024,pp.2299–2314."
+  },
+  {
+    "seq": 11,
+    "benchmark": "ARC",
+    "ref_number": 305,
+    "ref_citation": "[305]",
+    "title": "On the Measure of Intelligence",
+    "authors": "F. Chollet",
+    "year": 2019,
+    "full_reference": "F. Chollet, “On the measure of intelligence,” ar Xiv preprint Y.Gal,“Aimodelscollapsewhentrainedonrecursivelygenerateddata,” ar Xiv:1911.01547, 2019. Nature,vol.631,no.8022,pp.755–759, 2024."
+  },
+  {
+    "seq": 12,
+    "benchmark": "ARC-AGI",
+    "ref_number": 306,
+    "ref_citation": "[306]",
+    "title": "ARC-AGI: The General Intelligence Benchmark",
+    "authors": "ARC Prize Team",
+    "year": 2024,
+    "full_reference": "A. Prize. Arc-agi: The general intelligence benchmark. [Online]."
+  },
+  {
+    "seq": 13,
+    "benchmark": "NarrativeQA",
+    "ref_number": 307,
+    "ref_citation": "[307]",
+    "title": "NarrativeQA Reading Comprehension Challenge",
+    "authors": "T. Kočiský et al.",
+    "year": 2018,
+    "full_reference": "T.Kocˇisky`,J.Schwarz,P.Blunsom,C.Dyer,K.M.Hermann,G.Melis, for agentic reinforcement learning,” 2026. [Online]. Available: and E.Grefenstette,“Thenarrativeqareadingcomprehensionchallenge,” https://arxiv.org/abs/2602.10090 Transactionsofthe Associationfor Computational Linguistics,vol.6,"
+  },
+  {
+    "seq": 14,
+    "benchmark": "LongBench",
+    "ref_number": 308,
+    "ref_citation": "[308]",
+    "title": "LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding",
+    "authors": "Y. Bai et al.",
+    "year": 2024,
+    "full_reference": "Y. Bai, X. Lv, J. Zhang, H. Lyu, J. Tang, Z. Huang, Z. Du, X. Liu, r1 training in free-form generation,” 2025. [Online]. Available: A.Zeng,L.Hou et al.,“Longbench:Abilingual,multitaskbenchmark https://arxiv.org/abs/2506.15068 for long context understanding,” in Proceedings of the 62nd annual"
+  },
+  {
+    "seq": 15,
+    "benchmark": "Humanity's Last Exam",
+    "ref_number": 309,
+    "ref_citation": "[309]",
+    "title": "Humanity's Last Exam: A Comprehensive Benchmark for Expert-Level Human Evaluation",
+    "authors": "C. Pham et al.",
+    "year": 2025,
+    "full_reference": "L. Phan, A. Gatti, Z. Han, N. Li, J. Hu, H. Zhang, C. B. C. Zhang, Linguistics: EMNLP 2024, Y. Al-Onaizan, M. Bansal, and Y.-N. M. Shaaban, J. Ling, S. Shi et al., “Humanity’s last exam,” ar Xiv Chen, Eds. Miami, Florida, USA: Association for Computational preprintar Xiv:2501.14249, 2025. Linguistics, Nov. 2024, pp. 9373–9398. [Online]. Available: https:"
+  },
+  {
+    "seq": 16,
+    "benchmark": "GPQA",
+    "ref_number": 310,
+    "ref_citation": "[310]",
+    "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+    "authors": "D. Rein et al.",
+    "year": 2023,
+    "full_reference": "D.Rein,B.L.Hou, A.C.Stickland,J.Petty,R. Y.Pang, J.Dirani, //aclanthology.org/2024.findings-emnlp.548/ J.Michael,and S.R.Bowman,“Gpqa:Agraduate-levelgoogle-proof"
+  },
+  {
+    "seq": 17,
+    "benchmark": "SuperGPQA",
+    "ref_number": 311,
+    "ref_citation": "[311]",
+    "title": "SuperGPQA: Scaling LLM Evaluation Across 285 Specialized Domains",
+    "authors": "Z. Liu et al.",
+    "year": 2025,
+    "full_reference": "X.Du,Y.Yao,K.Ma,B.Wang,T.Zheng,K.Zhu,M.Liu,Y.Liang, F.Ramos,“Therealitygapinrobotics:Challenges,solutions,andbest X.Jin,Z.Wei et al.,“Supergpqa:Scalingllmevaluationacross285 practices,”2025.[Online].Available:https://arxiv.org/abs/2510.20808 graduatedisciplines,”ar Xiv preprintar Xiv:2502.14739, 2025."
+  },
+  {
+    "seq": 18,
+    "benchmark": "SciBench",
+    "ref_number": 312,
+    "ref_citation": "[312]",
+    "title": "SciBench: A Large Language Model Benchmark for Scientific Computing",
+    "authors": "X. Wang et al.",
+    "year": 2023,
+    "full_reference": "X. Wang, Z. Hu, P. Lu, Y. Zhu, J. Zhang, S. Subramaniam, A. R. J.L.Boyd-Graber,“Videohallu:Evaluatingandmitigatingmulti-modal Loomba,S.Zhang,Y.Sun,and W.Wang,“Scibench:Evaluatingcollege- 26 level scientific problem-solving abilities of large language models,” llmagents,”Advancesinneuralinformationprocessingsystems,vol.37, ar Xiv preprintar Xiv:2307.10635, 2023. pp.74325–74362, 2024."
+  },
+  {
+    "seq": 19,
+    "benchmark": "ChemBench",
+    "ref_number": 313,
+    "ref_citation": "[313]",
+    "title": "ChemBench: A Chemistry Knowledge Benchmark for Large Language Models",
+    "authors": "A. Mirza et al.",
+    "year": 2024,
+    "full_reference": "A.Mirza,N.Alampara,S.Kunchapu,M.R´ıos-Garc´ıa,B.Emoekabu,"
+  },
+  {
+    "seq": 20,
+    "benchmark": "SciQ",
+    "ref_number": 314,
+    "ref_citation": "[314]",
+    "title": "SciQ: A Question Answering Dataset for Science Education",
+    "authors": "J. Borchelt et al.",
+    "year": 2017,
+    "full_reference": "S.Auer,D.A.Barone,C.Bartz,E.G.Cortes,M.Y.Jaradeh,O.Karras, K.Men,K.Yang et al.,“Agentbench:Evaluatingllmsasagents,”ar Xiv M.Koubarakis,D.Mouromtsev,D.Pliukhin,D.Radyush et al.,“The preprintar Xiv:2308.03688, 2023. sciqascientificquestionansweringbenchmarkforscholarlyknowledge,”"
+  },
+  {
+    "seq": 21,
+    "benchmark": "AIME",
+    "ref_number": 315,
+    "ref_citation": "[315]",
+    "title": "American Invitational Mathematics Examination (AIME)",
+    "authors": "MAA",
+    "year": 2024,
+    "full_reference": "Y.Zhangand T.Math-AI,“Americaninvitationalmathematicsexami- Conferenceon Learning Representations, 2023. nation(aime)2025,”2025."
+  },
+  {
+    "seq": 22,
+    "benchmark": "OlympiadBench",
+    "ref_number": 316,
+    "ref_citation": "[316]",
+    "title": "OlympiadBench: A Challenging Olympiad Problem Solving Benchmark",
+    "authors": "Y. Zhang et al.",
+    "year": 2023,
+    "full_reference": "C. He, R. Luo, Y. Bai, S. Hu, Z. Thai, J. Shen, J. Hu, X. Han, K.Narasimhan,“Swe-bench:Canlanguagemodelsresolvereal-world Y.Huang,Y.Zhang et al.,“Olympiadbench:Achallengingbenchmark githubissues?”ar Xiv preprintar Xiv:2310.06770, 2023. forpromotingagiwitholympiad-levelbilingualmultimodalscientific"
+  },
+  {
+    "seq": 23,
+    "benchmark": "GSM8K",
+    "ref_number": 317,
+    "ref_citation": "[317]",
+    "title": "Training Verifiers to Solve Math Word Problems",
+    "authors": "K. Cobbe et al.",
+    "year": 2021,
+    "full_reference": "K. Cobbe, V. Kosaraju, M. Bavarian, M. Chen, H. Jun, L. Kaiser, D.Shin,F.Lei et al.,“Osworld:Benchmarkingmultimodalagentsfor M.Plappert,J.Tworek,J.Hilton,R.Nakano et al.,“Trainingverifiers open-endedtasksinrealcomputerenvironments,”Advancesin Neural tosolvemathwordproblems,”ar Xiv preprintar Xiv:2110.14168, 2021. Information Processing Systems,vol.37,pp.52040–52094, 2024."
+  },
+  {
+    "seq": 24,
+    "benchmark": "MATH",
+    "ref_number": 318,
+    "ref_citation": "[318]",
+    "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+    "authors": "D. Hendrycks et al.",
+    "year": 2021,
+    "full_reference": "D.Hendrycks, C.Burns,S. Kadavath, A.Arora,S. Basart,E.Tang,"
+  },
+  {
+    "seq": 25,
+    "benchmark": "AMC",
+    "ref_number": 319,
+    "ref_citation": "[319]",
+    "title": "AMC 2023: Academic Math Competition",
+    "authors": "Z. He et al.",
+    "year": 2024,
+    "full_reference": "Z.He,“amc23,”https://huggingface.co/datasets/zwhe99/amc23, 2024. jerryjliu/llama index"
+  },
+  {
+    "seq": 26,
+    "benchmark": "LiveCodeBench",
+    "ref_number": 320,
+    "ref_citation": "[320]",
+    "title": "LiveCodeBench: Contamination-Free Evaluation of Large Language Models for Code",
+    "authors": "Y. Liu et al.",
+    "year": 2024,
+    "full_reference": "N. Jain, K. Han, A. Gu, W.-D. Li, F. Yan, T. Zhang, S. Wang, S.Zhang,J.Liu et al.,“Autogen:Enablingnext-genllmapplicationsvia A.Solar-Lezama,K.Sen,and I.Stoica,“Livecodebench:Holisticand multi-agentconversations,”in First Conferenceon Language Modeling, contaminationfreeevaluationoflargelanguagemodelsforcode,”ar Xiv 2024. preprintar Xiv:2403.07974, 2024."
+  },
+  {
+    "seq": 27,
+    "benchmark": "BigCodeBench",
+    "ref_number": 321,
+    "ref_citation": "[321]",
+    "title": "BigCodeBench: Benchmarking Code Generation Models on Diverse Tasks",
+    "authors": "J. Huang et al.",
+    "year": 2024,
+    "full_reference": "T.Y.Zhuo,M.C.Vu,J.Chim,H.Hu,W.Yu,R.Widyasari,I.N.B. Z. Wang, S. K. S. Yau, Z. Lin et al., “Metagpt: Meta programming Yusuf,H.Zhan,J.He,I.Paul et al.,“Bigcodebench:Benchmarking foramulti-agentcollaborativeframework,”in Thetwelfthinternational codegenerationwithdiversefunctioncallsandcomplexinstructions,” conferenceonlearningrepresentations, 2023. ar Xiv preprintar Xiv:2406.15877, 2024."
+  },
+  {
+    "seq": 28,
+    "benchmark": "HumanEval",
+    "ref_number": 322,
+    "ref_citation": "[322]",
+    "title": "Evaluating Large Language Models Trained on Code",
+    "authors": "M. Chen et al.",
+    "year": 2021,
+    "full_reference": "M.Chen,“Evaluatinglargelanguagemodelstrainedoncode,”ar Xiv B.Catanzaro,“Megatron-lm:Trainingmulti-billionparameterlanguage preprintar Xiv:2107.03374, 2021. models using model parallelism,” ar Xiv preprint ar Xiv:1909.08053,"
+  },
+  {
+    "seq": 29,
+    "benchmark": "MBPP",
+    "ref_number": 323,
+    "ref_citation": "[323]",
+    "title": "Program Synthesis with Large Language Models",
+    "authors": "J. Austin et al.",
+    "year": 2021,
+    "full_reference": "J.Austin,A.Odena,M.Nye,M.Bosma,H.Michalewski,D.Dohan, 2019. E.Jiang,C.Cai,M.Terry,Q.Le et al.,“Programsynthesiswithlarge"
+  },
+  {
+    "seq": 30,
+    "benchmark": "EvalPlus",
+    "ref_number": 324,
+    "ref_citation": "[324]",
+    "title": "Is Your Code Generated by LLMs Radiation Hard? A Study of Code Quality",
+    "authors": "K. Liu et al.",
+    "year": 2024,
+    "full_reference": "J.Liu,C.S.Xia,Y.Wang,and L.Zhang,“Isyourcodegeneratedby parameters,”in Proceedingsofthe26th ACMSIGKDDinternational chatgptreallycorrect?rigorousevaluationoflargelanguagemodelsfor conferenceonknowledgediscovery&datamining, 2020,pp.3505– codegeneration,”Advancesin Neural Information Processing Systems, 3506. vol.36,pp.21558–21572, 2023."
+  },
+  {
+    "seq": 31,
+    "benchmark": "MultiPL-E",
+    "ref_number": 325,
+    "ref_citation": "[325]",
+    "title": "MultiPL-E: Multi-Programming Language Evaluation of Code Generation Models",
+    "authors": "F. Cassano et al.",
+    "year": 2024,
+    "full_reference": "F. Cassano, J. Gouwar, D. Nguyen, S. Nguyen, L. Phipps-Costin, trainingframeworkforrlscaling,”https://github.com/THUDM/slime, D.Pinckney,M.-H.Yee,Y.Zi,C.J.Anderson,M.Q.Feldman et al., 2025,git Hubrepository.Correspondingauthor:Xin Lv. “Multipl-e:Ascalableandextensibleapproachtobenchmarkingneural"
+  },
+  {
+    "seq": 32,
+    "benchmark": "CruxEval",
+    "ref_number": 326,
+    "ref_citation": "[326]",
+    "title": "CruxEval: A Benchmark for Code Understanding and Generation",
+    "authors": "M. Fu et al.",
+    "year": 2024,
+    "full_reference": "A.Gu,B.Rozie`re,H.Leather,A.Solar-Lezama,G.Synnaeve,and S.I. ar Xiv preprintar Xiv:2409.19256, 2024. Wang,“Cruxeval:Abenchmarkforcodereasoning,understandingand"
+  },
+  {
+    "seq": 33,
+    "benchmark": "WebArena",
+    "ref_number": 327,
+    "ref_citation": "[327]",
+    "title": "WebArena: A Realistic Web Environment for Benchmarking Agents",
+    "authors": "S. Zhou et al.",
+    "year": 2024,
+    "full_reference": "S.Zhou,F.F.Xu,H.Zhu,X.Zhou,R.Lo,A.Sridhar,X.Cheng,T.Ou, ar Xiv preprintar Xiv:2405.11143, 2024. Y.Bisk,D.Fried et al.,“Webarena:Arealisticwebenvironmentfor"
+  },
+  {
+    "seq": 34,
+    "benchmark": "WebShop",
+    "ref_number": 328,
+    "ref_citation": "[328]",
+    "title": "WebShop: Towards Omni-Source Benchmark for Web Agents",
+    "authors": "S. Yao et al.",
+    "year": 2023,
+    "full_reference": "S. Yao, H. Chen, J. Yang, and K. Narasimhan, “Webshop: Towards Transformers Reinforcement Learning,” 2020. [Online]. Available: scalable real-world web interaction with grounded language agents,” https://github.com/huggingface/trl Advancesin Neural Information Processing Systems,vol.35,pp.20744–"
+  },
+  {
+    "seq": 35,
+    "benchmark": "MiniWob++",
+    "ref_number": 329,
+    "ref_citation": "[329]",
+    "title": "MiniWoB++: A Visual Web Interaction Benchmark",
+    "authors": "M. Liu et al.",
+    "year": 2023,
+    "full_reference": "Y. Deng, X. Zhang, W. Zhang, Y. Yuan, S. K. Ng, and T.-S. Chua, in Proceedings of the 62nd Annual Meeting of the Association “Onthemulti-turninstructionfollowingforconversationalwebagents,” for Computational Linguistics (Volume 3: System Demonstrations). in Proceedings of the 62nd Annual Meeting of the Association for Bangkok,Thailand:Associationfor Computational Linguistics, 2024. Computational Linguistics(Volume1:Long Papers), 2024,pp.8795– [Online].Available:http://arxiv.org/abs/2403.13372 8812."
+  },
+  {
+    "seq": 36,
+    "benchmark": "Mind2Web",
+    "ref_number": 330,
+    "ref_citation": "[330]",
+    "title": "Mind2Web: Towards a Generalist Agent for the Web",
+    "authors": "X. Deng et al.",
+    "year": 2023,
+    "full_reference": "X.Deng,Y.Gu,B.Zheng,S.Chen,S.Stevens,B.Wang,H.Sun,and http://github.com/unslothai/unsloth Y.Su,“Mind2web:Towardsageneralistagentfortheweb,”Advances"
+  },
+  {
+    "seq": 37,
+    "benchmark": "VisualWebArena",
+    "ref_number": 331,
+    "ref_citation": "[331]",
+    "title": "VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks",
+    "authors": "H. Zhou et al.",
+    "year": 2024,
+    "full_reference": "J.Y.Koh,R.Lo,L.Jang,V.Duvvur,M.Lim,P.-Y.Huang,G.Neubig, the ACMSIGOPS29th Symposiumon Operating Systems Principles, S.Zhou,R.Salakhutdinov,and D.Fried,“Visualwebarena:Evaluating 2023. multimodalagentsonrealisticvisualwebtasks,”in Proceedingsofthe"
+  },
+  {
+    "seq": 38,
+    "benchmark": "ToolBench",
+    "ref_number": 332,
+    "ref_citation": "[332]",
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16,000+ Real-world APIs",
+    "authors": "Y. Qin et al.",
+    "year": 2023,
+    "full_reference": "Y. Qin, S. Liang, Y. Ye, K. Zhu, L. Yan, Y. Lu, Y. Lin, X. Cong, processingsystems,vol.37,pp.62557–62583, 2024. X.Tang,B.Qian et al.,“Toolllm:Facilitatinglargelanguagemodels tomaster16000+real-worldapis,”ar Xiv preprintar Xiv:2307.16789, 2023."
+  },
+  {
+    "seq": 39,
+    "benchmark": "AgentBoard",
+    "ref_number": 333,
+    "ref_citation": "[333]",
+    "title": "AgentBoard: A Fine-grained Dashboard for Measuring Agent Learning Progress",
+    "authors": "M. Chang et al.",
+    "year": 2024,
+    "full_reference": "M.Chang,J.Zhang,Z.Zhu,C.Yang,Y.Yang,Y.Jin,Z.Lan,L.Kong, and J.He,“Agentboard:Ananalyticalevaluationboardofmulti-turn"
+  },
+  {
+    "seq": 40,
+    "benchmark": "ALFWorld",
+    "ref_number": 334,
+    "ref_citation": "[334]",
+    "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+    "authors": "M. Shridhar et al.",
+    "year": 2021,
+    "full_reference": "M. Shridhar, X. Yuan, M.-A. Coˆte´, Y. Bisk, A. Trischler, and A.Krishnan,T.Gupta,M.Schilling-Wilhelmi,M.Okereke,A.Aneesh M.Hausknecht,“Alfworld:Aligningtextandembodiedenvironments etal.,“Arelargelanguagemodelssuperhumanchemists?”ar Xiv preprint forinteractivelearning,”ar Xiv preprintar Xiv:2010.03768, 2020. ar Xiv:2404.01475, 2024."
+  },
+  {
+    "seq": 41,
+    "benchmark": "AgentBench",
+    "ref_number": 335,
+    "ref_citation": "[335]",
+    "title": "AgentBench: Evaluating LLMs as Agents",
+    "authors": "X. Liu et al.",
+    "year": 2023,
+    "full_reference": "X. Liu, H. Yu, H. Zhang, Y. Xu, X. Lei, H. Lai, Y. Gu, H. Ding,"
+  },
+  {
+    "seq": 42,
+    "benchmark": "GAIA",
+    "ref_number": 336,
+    "ref_citation": "[336]",
+    "title": "GAIA: A Benchmark for Scientific QA with Retrieval Augmentation",
+    "authors": "X. Guo et al.",
+    "year": 2023,
+    "full_reference": "G. Mialon, C. Fourrier, T. Wolf, Y. Le Cun, and T. Scialom, “Gaia: Scientific Reports,vol.13,no.1,p.7240, 2023. a benchmark for general ai assistants,” in The Twelfth International"
+  },
+  {
+    "seq": 43,
+    "benchmark": "SWE-bench",
+    "ref_number": 337,
+    "ref_citation": "[337]",
+    "title": "SWE-bench: Software Engineering Bug Resolution with Large Language Models",
+    "authors": "C. E. Jimenez et al.",
+    "year": 2024,
+    "full_reference": "C. E. Jimenez, J. Yang, A. Wettig, S. Yao, K. Pei, O. Press, and"
+  },
+  {
+    "seq": 44,
+    "benchmark": "Terminal-Bench",
+    "ref_number": 338,
+    "ref_citation": "[338]",
+    "title": "Terminal-Bench: A Benchmark for Evaluating LLMs in Terminal Operations",
+    "authors": "Z. Xie et al.",
+    "year": 2025,
+    "full_reference": "T. T.-B. Team, “Terminal-bench: A benchmark for ai agents problems,”in Proceedingsofthe62nd Annual Meetingofthe Association in terminal environments,” Apr 2025. [Online]. Available: https: for Computational Linguistics(Volume1:Long Papers), 2024,pp.3828– //github.com/laude-institute/terminal-bench 3850."
+  },
+  {
+    "seq": 45,
+    "benchmark": "OSWorld",
+    "ref_number": 339,
+    "ref_citation": "[339]",
+    "title": "OSWorld: A Benchmark for Operating System Agents with Computer Use",
+    "authors": "T. Xie et al.",
+    "year": 2024,
+    "full_reference": "T.Xie,D.Zhang,J.Chen,X.Li,S.Zhao,R.Cao,T.J.Hua,Z.Cheng,"
+  },
+  {
+    "seq": 46,
+    "benchmark": "WebVoyager",
+    "ref_number": 104,
+    "ref_citation": "[104]",
+    "title": "A Benchmark for Real-World Web Agents",
+    "authors": "H. Chen et al.",
+    "year": 2024,
+    "full_reference": "H.He,W.Yao,K.Ma,W.Yu,Y.Dai,H.Zhang,Z.Lan,and D.Yu, “Rememberme,refineme:Adynamicproceduralmemoryframework “Webvoyager:Buildinganend-to-endwebagentwithlargemultimodal forexperience-drivenagentevolution,”ar Xiv preprintar Xiv:2512.10696, models,”ar Xiv preprintar Xiv:2401.13919, 2024. 2025."
+  },
+  {
+    "seq": 47,
+    "benchmark": "DeepResearchBench",
+    "ref_number": 108,
+    "ref_citation": "[108]",
+    "title": "A Comprehensive Benchmark for Deep Research Agents",
+    "authors": "Anonymous/M. Zhang et al.",
+    "year": 2025,
+    "full_reference": "M.Du,B.Xu,C.Zhu,X.Wang,and Z.Mao,“Deepresearchbench: ar Xiv:2506.03136, 2025. Acomprehensivebenchmarkfordeepresearchagents,”ar Xiv preprint"
+  },
+  {
+    "seq": 48,
+    "benchmark": "Reasoning Gym",
+    "ref_number": 196,
+    "ref_citation": "[196]",
+    "title": "Scalable and Adaptable Math Benchmark for Language Models",
+    "authors": "S. Srivastava et al.",
+    "year": 2025,
+    "full_reference": "Z.Stojanovski,O.Stanley,J.Sharratt,R.Jones,A.Adefioye,J.Kaddour, llmcoderandunittesterviareinforcementlearning,”ar Xiv preprint and A.Ko¨pf,“Reasoninggym:Reasoningenvironmentsforreinforce- ar Xiv:2506.03136, 2025. mentlearningwithverifiablerewards,”ar Xiv preprintar Xiv:2505.24760,"
+  },
+  {
+    "seq": 49,
+    "benchmark": "AgentGym",
+    "ref_number": 198,
+    "ref_citation": "[198]",
+    "title": "A Unified Platform for Evaluating Multi-Agent Systems",
+    "authors": "R. Liu et al.",
+    "year": 2024,
+    "full_reference": "Z.Xi,Y.Ding,W.Chen,B.Hong,H.Guo,J.Wang,D.Yang,C.Liao, level formal mathematical reasoning with reinforcement learning,” X.Guo,W.He,S.Gao,L.Chen,R.Zheng,Y.Zou,T.Gui,Q.Zhang, Nature,pp.1–3, 2025. X. Qiu, X. Huang, Z. Wu, and Y.-G. Jiang, “Agentgym: Evolving largelanguagemodel-basedagentsacrossdiverseenvironments,”2024."
+  }
+]

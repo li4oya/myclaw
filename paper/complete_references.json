@@ -1,0 +1,1417 @@
+{
+  "total_references": 353,
+  "references": {
+    "1": {
+      "full_reference": "J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L. Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774, 2023.",
+      "title": "“Gpt-4 technical report"
+    },
+    "2": {
+      "full_reference": "H. Touvron, T. Lavril, G. Izacard, X. Martinet, M.-A. Lachaux, T. Lacroix, B. Rozi`ere, N. Goyal, E. Hambro, F. Azhar et al., “Llama: Open and efficient foundation language models,” arXiv preprint arXiv:2302.13971, 2023.",
+      "title": "“Llama: Open and efficient foundation language models"
+    },
+    "3": {
+      "full_reference": "A. Dubey, A. Jauhri, A. Pandey, A. Kadian, A. Al-Dahle, A. Letman, A. Mathur, A. Schelten, A. Yang, A. Fan et al., “The llama 3 herd of models,” arXiv e-prints, pp. arXiv–2407, 2024.",
+      "title": "A. Dubey, A. Jauhri, A. Pandey, A. Kadian, A. Al-Dahle, A. Letman, A. Mathur, A. Schelten, A. Yang, A. Fan et al., “The llama 3 herd of models,” arXiv"
+    },
+    "4": {
+      "full_reference": "J. Bai, S. Bai, Y. Chu, Z. Cui, K. Dang, X. Deng, Y. Fan, W. Ge, Y. Han, F. Huang et al., “Qwen technical report,” arXiv preprint arXiv:2309.16609, 2023.",
+      "title": "“Qwen technical report"
+    },
+    "5": {
+      "full_reference": "A. Yang, A. Li, B. Yang, B. Zhang, B. Hui, B. Zheng, B. Yu, C. Gao, C. Huang, C. Lv et al., “Qwen3 technical report,” arXiv preprint arXiv:2505.09388, 2025.",
+      "title": "“Qwen3 technical report"
+    },
+    "6": {
+      "full_reference": "G. Comanici, E. Bieber, M. Schaekermann, I. Pasupat, N. Sachdeva, I. Dhillon, M. Blistein, O. Ram, D. Zhang, E. Rosen et al., “Gemini 2.5: Pushing the frontier with advanced reasoning, multimodality, long context, and next generation agentic capabilities,” arXiv preprint arXiv:2507.06261, 2025.",
+      "title": "and next generation agentic capabilities"
+    },
+    "7": {
+      "full_reference": "K. Team, Y. Bai, Y. Bao, G. Chen, J. Chen, N. Chen, R. Chen, Y. Chen, Y. Chen, Y. Chen et al., “Kimi k2: Open agentic intelligence,” arXiv preprint arXiv:2507.20534, 2025.",
+      "title": "“Kimi k2: Open agentic intelligence"
+    },
+    "8": {
+      "full_reference": "A. Liu, B. Feng, B. Xue, B. Wang, B. Wu, C. Lu, C. Zhao, C. Deng, C. Zhang, C. Ruan et al., “Deepseek-v3 technical report,” arXiv preprint arXiv:2412.19437, 2024.",
+      "title": "“Deepseek-v3 technical report"
+    },
+    "9": {
+      "full_reference": "T. Brown, B. Mann, N. Ryder, M. Subbiah, J. D. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell et al., “Language models are few-shot learners,” Advances in neural information processing systems, vol. 33, pp. 1877–1901, 2020.",
+      "title": "T. Brown, B. Mann, N. Ryder, M. Subbiah, J. D. Kaplan, P. Dhariwal, A. Neelakantan, P. Shyam, G. Sastry, A. Askell et al., “Language models are few-sh"
+    },
+    "10": {
+      "full_reference": "W. X. Zhao, K. Zhou, J. Li, T. Tang, X. Wang, Y. Hou, Y. Min, B. Zhang, J. Zhang, Z. Dong et al., “A survey of large language models,” arXiv preprint arXiv:2303.18223, vol. 1, no. 2, 2023.",
+      "title": "“A survey of large language models"
+    },
+    "11": {
+      "full_reference": "W. Huang, P. Abbeel, D. Pathak, and I. Mordatch, “Language models as zero-shot planners: Extracting actionable knowledge for embodied agents,” in International conference on machine learning. PMLR, 2022, pp. 9118–9147.",
+      "title": "W. Huang, P. Abbeel, D. Pathak, and I. Mordatch, “Language models as zero-shot planners: Extracting actionable knowledge for embodied agents,” in Inte"
+    },
+    "12": {
+      "full_reference": "Y. Shen, K. Song, X. Tan, D. Li, W. Lu, and Y. Zhuang, “Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face,” Advances in Neural Information Processing Systems, vol. 36, pp. 38 154–38 180, 2023.",
+      "title": "Y. Shen, K. Song, X. Tan, D. Li, W. Lu, and Y. Zhuang, “Hugginggpt: Solving ai tasks with chatgpt and its friends in hugging face,” Advances in Neural"
+    },
+    "13": {
+      "full_reference": "J. S. Park, J. O’Brien, C. J. Cai, M. R. Morris, P. Liang, and M. S. Bernstein, “Generative agents: Interactive simulacra of human behavior,” in Proceedings of the 36th annual acm symposium on user interface software and technology, 2023, pp. 1–22.",
+      "title": "“Generative agents: Interactive simulacra of human behavior"
+    },
+    "14": {
+      "full_reference": "A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra, A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language modeling with pathways,” Journal of Machine Learning Research, vol. 24, no. 240, pp. 1–113, 2023.",
+      "title": "A. Chowdhery, S. Narang, J. Devlin, M. Bosma, G. Mishra, A. Roberts, P. Barham, H. W. Chung, C. Sutton, S. Gehrmann et al., “Palm: Scaling language mo"
+    },
+    "15": {
+      "full_reference": "B. Min, H. Ross, E. Sulem, A. P. B. Veyseh, T. H. Nguyen, O. Sainz, E. Agirre, I. Heintz, and D. Roth, “Recent advances in natural language processing via large pre-trained language models: A survey,” ACM Computing Surveys, vol. 56, no. 2, pp. 1–40, 2023.",
+      "title": "B. Min, H. Ross, E. Sulem, A. P. B. Veyseh, T. H. Nguyen, O. Sainz, E. Agirre, I. Heintz, and D. Roth, “Recent advances in natural language processing"
+    },
+    "16": {
+      "full_reference": "J. Wei, X. Wang, D. Schuurmans, M. Bosma, F. Xia, E. Chi, Q. V. Le, D. Zhou et al., “Chain-of-thought prompting elicits reasoning in large language models,” Advances in neural information processing systems, vol. 35, pp. 24 824–24 837, 2022.",
+      "title": "J. Wei, X. Wang, D. Schuurmans, M. Bosma, F. Xia, E. Chi, Q. V. Le, D. Zhou et al., “Chain-of-thought prompting elicits reasoning in large language mo"
+    },
+    "17": {
+      "full_reference": "J. Achiam, S. Adler, S. Agarwal, L. Ahmad, I. Akkaya, F. L. Aleman, D. Almeida, J. Altenschmidt, S. Altman, S. Anadkat et al., “Gpt-4 technical report,” arXiv preprint arXiv:2303.08774, 2023.",
+      "title": "“Gpt-4 technical report"
+    },
+    "18": {
+      "full_reference": "S. Yao, J. Zhao, D. Yu, N. Du, I. Shafran, K. R. Narasimhan, and Y. Cao, “React: Synergizing reasoning and acting in language models,” in The eleventh international conference on learning representations, 2022.",
+      "title": "S. Yao, J. Zhao, D. Yu, N. Du, I. Shafran, K. R. Narasimhan, and Y. Cao, “React: Synergizing reasoning and acting in language models,” in The eleventh"
+    },
+    "19": {
+      "full_reference": "C. Zhou, P. Liu, P. Xu, S. Iyer, J. Sun, Y. Mao, X. Ma, A. Efrat, P. Yu, L. Yu et al., “Lima: Less is more for alignment,” Advances in Neural Information Processing Systems, vol. 36, pp. 55 006–55 021, 2023.",
+      "title": "C. Zhou, P. Liu, P. Xu, S. Iyer, J. Sun, Y. Mao, X. Ma, A. Efrat, P. Yu, L. Yu et al., “Lima: Less is more for alignment,” Advances in Neural Informat"
+    },
+    "20": {
+      "full_reference": "D. Guo, D. Yang, H. Zhang, and J. e. Song, “Deepseek-r1 incentivizes reasoning in llms through reinforcement learning,” Nature, vol. 645, no. 8081, p. 633–638, Sep. 2025. [Online]. Available: http://dx.doi.org/10.1038/s41586-025-09422-z",
+      "title": "D. Guo, D. Yang, H. Zhang, and J. e. Song, “Deepseek-r1 incentivizes reasoning in llms through reinforcement learning,” Nature, vol. 645, no. 8081, p."
+    },
+    "21": {
+      "full_reference": "“A primer on llm post-training.” [Online]. Available: https://pytorch. org/blog/a-primer-on-llm-post-training/",
+      "title": "“A primer on llm post-training.” [Online]. Available: https://pytorch. org/blog/a-primer-on-llm-post-training/"
+    },
+    "22": {
+      "full_reference": "“Claude 3.5 sonnet.” [Online]. Available: https://www.anthropic.com/ news/claude-3-5-sonnet",
+      "title": "“Claude 3.5 sonnet.” [Online]. Available: https://www.anthropic.com/ news/claude-3-5-sonnet"
+    },
+    "23": {
+      "full_reference": "K. Kumar, T. Ashraf, O. Thawakar, R. M. Anwer, H. Cholakkal, M. Shah, M.-H. Yang, P. H. Torr, F. S. Khan, and S. Khan, “Llm post-training: A deep dive into reasoning large language models,” arXiv preprint arXiv:2502.21321, 2025.",
+      "title": "“Llm post-training: A deep dive into reasoning large language models"
+    },
+    "24": {
+      "full_reference": "T. Chu, Y. Zhai, J. Yang, S. Tong, S. Xie, D. Schuurmans, Q. V. Le, S. Levine, and Y. Ma, “Sft memorizes, rl generalizes: A com- parative study of foundation model post-training,” arXiv preprint arXiv:2501.17161, 2025.",
+      "title": "rl generalizes: A com- parative study of foundation model post-training"
+    },
+    "25": {
+      "full_reference": "D. Silver and R. S. Sutton, “Welcome to the era of experience,” Google AI, vol. 1, 2025.",
+      "title": "D. Silver and R. S. Sutton, “Welcome to the era of experience,” Google AI, vol. 1, 2025."
+    },
+    "26": {
+      "full_reference": "Y. Zuo, K. Zhang, L. Sheng, S. Qu, G. Cui, X. Zhu, H. Li, Y. Zhang, X. Long, E. Hua et al., “Ttrl: Test-time reinforcement learning,” arXiv preprint arXiv:2504.16084, 2025.",
+      "title": "“Ttrl: Test-time reinforcement learning"
+    },
+    "27": {
+      "full_reference": "L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray et al., “Training language models to follow instructions with human feedback,” Advances in neural information processing systems, vol. 35, pp. 27 730–27 744, 2022.",
+      "title": "L. Ouyang, J. Wu, X. Jiang, D. Almeida, C. Wainwright, P. Mishkin, C. Zhang, S. Agarwal, K. Slama, A. Ray et al., “Training language models to follow "
+    },
+    "28": {
+      "full_reference": "Y. Wang, Y. Kordi, S. Mishra, A. Liu, N. A. Smith, D. Khashabi, and H. Hajishirzi, “Self-instruct: Aligning language models with self- generated instructions,” in Proceedings of the 61st annual meeting of the association for computational linguistics (volume 1: long papers), 2023, pp. 13 484–13 508.",
+      "title": "“Self-instruct: Aligning language models with self- generated instructions"
+    },
+    "29": {
+      "full_reference": "H. W. Chung, L. Hou, S. Longpre, B. Zoph, Y. Tay, W. Fedus, Y. Li, X. Wang, M. Dehghani, S. Brahma et al., “Scaling instruction-finetuned language models,” Journal of Machine Learning Research, vol. 25, no. 70, pp. 1–53, 2024.",
+      "title": "H. W. Chung, L. Hou, S. Longpre, B. Zoph, Y. Tay, W. Fedus, Y. Li, X. Wang, M. Dehghani, S. Brahma et al., “Scaling instruction-finetuned language mod"
+    },
+    "30": {
+      "full_reference": "S. Zhang, L. Dong, X. Li, S. Zhang, X. Sun, S. Wang, J. Li, R. Hu, T. Zhang, G. Wang et al., “Instruction tuning for large language models: A survey,” ACM Computing Surveys, vol. 58, no. 7, pp. 1–36, 2026.",
+      "title": "S. Zhang, L. Dong, X. Li, S. Zhang, X. Sun, S. Wang, J. Li, R. Hu, T. Zhang, G. Wang et al., “Instruction tuning for large language models: A survey,”"
+    },
+    "31": {
+      "full_reference": "Y. Meng, M. Xia, and D. Chen, “Simpo: Simple preference optimiza- tion with a reference-free reward,” Advances in Neural Information Processing Systems, vol. 37, pp. 124 198–124 235, 2024.",
+      "title": "Y. Meng, M. Xia, and D. Chen, “Simpo: Simple preference optimiza- tion with a reference-free reward,” Advances in Neural Information Processing System"
+    },
+    "32": {
+      "full_reference": "J. Scheurer, J. A. Campos, T. Korbak, J. S. Chan, A. Chen, K. Cho, and E. Perez, “Training language models with language feedback at scale,” arXiv preprint arXiv:2303.16755, 2023.",
+      "title": "“Training language models with language feedback at scale"
+    },
+    "33": {
+      "full_reference": "W. Zeng, Y. Huang, Q. Liu, W. Liu, K. He, Z. Ma, and J. He, “Simplerl- zoo: Investigating and taming zero reinforcement learning for open base models in the wild,” arXiv preprint arXiv:2503.18892, 2025.",
+      "title": "“Simplerl- zoo: Investigating and taming zero reinforcement learning for open base models in the wild"
+    },
+    "34": {
+      "full_reference": "Z. Shao, P. Wang, Q. Zhu, R. Xu, J. Song, X. Bi, H. Zhang, M. Zhang, Y. Li, Y. Wu et al., “Deepseekmath: Pushing the limits of mathematical reasoning in open language models,” arXiv preprint arXiv:2402.03300, 2024.",
+      "title": "“Deepseekmath: Pushing the limits of mathematical reasoning in open language models"
+    },
+    "35": {
+      "full_reference": "C. Jin, J. Xu, B. Liu, L. Tao, O. Golovneva, T. Shu, W. Zhao, X. Li, and J. Weston, “The era of real-world human interaction: Rl from user conversations,” arXiv preprint arXiv:2509.25137, 2025.",
+      "title": "“The era of real-world human interaction: Rl from user conversations"
+    },
+    "36": {
+      "full_reference": "H. Lightman, V. Kosaraju, Y. Burda, H. Edwards, B. Baker, T. Lee, J. Leike, J. Schulman, I. Sutskever, and K. Cobbe, “Let’s verify step by step,” in The Twelfth International Conference on Learning Representations, 2023.",
+      "title": "H. Lightman, V. Kosaraju, Y. Burda, H. Edwards, B. Baker, T. Lee, J. Leike, J. Schulman, I. Sutskever, and K. Cobbe, “Let’s verify step by step,” in T"
+    },
+    "37": {
+      "full_reference": "M. MacDiarmid, B. Wright, J. Uesato, J. Benton, J. Kutasov, S. Price, N. Bouscal, S. Bowman, T. Bricken, A. Cloud et al., “Natural emergent 20 misalignment from reward hacking in production rl,” arXiv preprint arXiv:2511.18397, 2025.",
+      "title": "“Natural emergent 20 misalignment from reward hacking in production rl"
+    },
+    "38": {
+      "full_reference": "C. Huang, W. Yu, X. Wang, H. Zhang, Z. Li, R. Li, J. Huang, H. Mi, and D. Yu, “R-zero: Self-evolving reasoning llm from zero data,” arXiv preprint arXiv:2508.05004, 2025.",
+      "title": "“R-zero: Self-evolving reasoning llm from zero data"
+    },
+    "39": {
+      "full_reference": "C. Yang, Z. Xiang, Y. Tang, Z. Teng, C. Huang, F. Long, Y. Liu, and J. Su, “Ttcs: Test-time curriculum synthesis for self-evolving,” arXiv preprint arXiv:2601.22628, 2026.",
+      "title": "“Ttcs: Test-time curriculum synthesis for self-evolving"
+    },
+    "40": {
+      "full_reference": "Z. Qi, X. Liu, I. L. Iong, H. Lai, X. Sun, W. Zhao, Y. Yang, X. Yang, J. Sun, S. Yao et al., “Webrl: Training llm web agents via self- evolving online curriculum reinforcement learning,” arXiv preprint arXiv:2411.02337, 2024.",
+      "title": "“Webrl: Training llm web agents via self- evolving online curriculum reinforcement learning"
+    },
+    "41": {
+      "full_reference": "Z. Wei, W. Yao, Y. Liu, W. Zhang, Q. Lu, L. Qiu, C. Yu, P. Xu, C. Zhang, B. Yin et al., “Webagent-r1: Training web agents via end-to-end multi- turn reinforcement learning,” arXiv preprint arXiv:2505.16421, 2025.",
+      "title": "“Webagent-r1: Training web agents via end-to-end multi- turn reinforcement learning"
+    },
+    "42": {
+      "full_reference": "J. Zheng, C. Shi, X. Cai, Q. Li, D. Zhang, C. Li, D. Yu, and Q. Ma, “Lifelong learning of large language model based agents: A roadmap,” IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026.",
+      "title": "“Lifelong learning of large language model based agents: A roadmap"
+    },
+    "43": {
+      "full_reference": "D. Silver, A. Huang, C. J. Maddison, A. Guez, L. Sifre, G. Van Den Driessche, J. Schrittwieser, I. Antonoglou, V. Panneershelvam, M. Lanctot et al., “Mastering the game of go with deep neural networks and tree search,” nature, vol. 529, no. 7587, pp. 484–489, 2016.",
+      "title": "D. Silver, A. Huang, C. J. Maddison, A. Guez, L. Sifre, G. Van Den Driessche, J. Schrittwieser, I. Antonoglou, V. Panneershelvam, M. Lanctot et al., “"
+    },
+    "44": {
+      "full_reference": "D. Silver, T. Hubert, J. Schrittwieser, I. Antonoglou, M. Lai, A. Guez, M. Lanctot, L. Sifre, D. Kumaran, T. Graepel et al., “Mastering chess and shogi by self-play with a general reinforcement learning algorithm,” arXiv preprint arXiv:1712.01815, 2017.",
+      "title": "“Mastering chess and shogi by self-play with a general reinforcement learning algorithm"
+    },
+    "45": {
+      "full_reference": "X. Wang, J. Wei, D. Schuurmans, Q. Le, E. Chi, S. Narang, A. Chowdh- ery, and D. Zhou, “Self-consistency improves chain of thought reasoning in language models,” arXiv preprint arXiv:2203.11171, 2022.",
+      "title": "“Self-consistency improves chain of thought reasoning in language models"
+    },
+    "46": {
+      "full_reference": "P. Manakul, A. Liusie, and M. Gales, “Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models,” in Proceedings of the 2023 conference on empirical methods in natural language processing, 2023, pp. 9004–9017.",
+      "title": "“Selfcheckgpt: Zero-resource black-box hallucination detection for generative large language models"
+    },
+    "47": {
+      "full_reference": "D. Jiang, X. Ren, and B. Y. Lin, “Llm-blender: Ensembling large language models with pairwise ranking and generative fusion,” arXiv preprint arXiv:2306.02561, 2023.",
+      "title": "“Llm-blender: Ensembling large language models with pairwise ranking and generative fusion"
+    },
+    "48": {
+      "full_reference": "B. Brown, J. Juravsky, R. Ehrlich, R. Clark, Q. V. Le, C. R´e, and A. Mirhoseini, “Large language monkeys: Scaling inference compute with repeated sampling,” arXiv preprint arXiv:2407.21787, 2024.",
+      "title": "“Large language monkeys: Scaling inference compute with repeated sampling"
+    },
+    "49": {
+      "full_reference": "N. Shinn, F. Cassano, A. Gopinath, K. Narasimhan, and S. Yao, “Reflex- ion: Language agents with verbal reinforcement learning,” Advances in Neural Information Processing Systems, vol. 36, pp. 8634–8652, 2023.",
+      "title": "N. Shinn, F. Cassano, A. Gopinath, K. Narasimhan, and S. Yao, “Reflex- ion: Language agents with verbal reinforcement learning,” Advances in Neural In"
+    },
+    "50": {
+      "full_reference": "A. Madaan, N. Tandon, P. Gupta, S. Hallinan, L. Gao, S. Wiegreffe, U. Alon, N. Dziri, S. Prabhumoye, Y. Yang et al., “Self-refine: Iterative refinement with self-feedback,” Advances in Neural Information Processing Systems, vol. 36, pp. 46 534–46 594, 2023.",
+      "title": "A. Madaan, N. Tandon, P. Gupta, S. Hallinan, L. Gao, S. Wiegreffe, U. Alon, N. Dziri, S. Prabhumoye, Y. Yang et al., “Self-refine: Iterative refinemen"
+    },
+    "51": {
+      "full_reference": "X. Chen, M. Lin, N. Sch¨arli, and D. Zhou, “Teaching large language models to self-debug,” arXiv preprint arXiv:2304.05128, 2023.",
+      "title": "“Teaching large language models to self-debug"
+    },
+    "52": {
+      "full_reference": "Z. Gou, Z. Shao, Y. Gong, Y. Shen, Y. Yang, N. Duan, and W. Chen, “Critic: Large language models can self-correct with tool-interactive critiquing,” arXiv preprint arXiv:2305.11738, 2023.",
+      "title": "“Critic: Large language models can self-correct with tool-interactive critiquing"
+    },
+    "53": {
+      "full_reference": "E. Wang, F. Cassano, C. Wu, Y. Bai, W. Song, V. Nath, Z. Han, S. Hendryx, S. Yue, and H. Zhang, “Planning in natural language im- proves llm search for code generation,” arXiv preprint arXiv:2409.03733, 2024.",
+      "title": "“Planning in natural language im- proves llm search for code generation"
+    },
+    "54": {
+      "full_reference": "Y. Zhang, M. Khalifa, L. Logeswaran, J. Kim, M. Lee, H. Lee, and L. Wang, “Small language models need strong verifiers to self-correct reasoning,” arXiv preprint arXiv:2404.17140, 2024.",
+      "title": "“Small language models need strong verifiers to self-correct reasoning"
+    },
+    "55": {
+      "full_reference": "V. Xiang, C. Snell, K. Gandhi, A. Albalak, A. Singh, C. Blagden, D. Phung, R. Rafailov, N. Lile, D. Mahan et al., “Towards system 2 reasoning in llms: Learning how to think with meta chain-of-thought,” arXiv preprint arXiv:2501.04682, 2025.",
+      "title": "“Towards system 2 reasoning in llms: Learning how to think with meta chain-of-thought"
+    },
+    "56": {
+      "full_reference": "K.-H. Lee, I. Fischer, Y.-H. Wu, D. Marwood, S. Baluja, D. Schuur- mans, and X. Chen, “Evolving deeper llm thinking,” arXiv preprint arXiv:2501.09891, 2025.",
+      "title": "“Evolving deeper llm thinking"
+    },
+    "57": {
+      "full_reference": "S. Yao, D. Yu, J. Zhao, I. Shafran, T. L. Griffiths, Y. Cao, and K. Narasimhan, “Tree of thoughts: Deliberate problem solving with large language models, 2023,” URL https://arxiv. org/abs/2305.10601, vol. 3, p. 1, 2023.",
+      "title": "S. Yao, D. Yu, J. Zhao, I. Shafran, T. L. Griffiths, Y. Cao, and K. Narasimhan, “Tree of thoughts: Deliberate problem solving with large language mode"
+    },
+    "58": {
+      "full_reference": "M. Besta, N. Blach, A. Kubicek, R. Gerstenberger, M. Podstawski, L. Gianinazzi, J. Gajda, T. Lehmann, H. Niewiadomski, P. Nyczyk et al., “Graph of thoughts: Solving elaborate problems with large language models,” in Proceedings of the AAAI conference on artificial intelligence, vol. 38, no. 16, 2024, pp. 17 682–17 690.",
+      "title": "“Graph of thoughts: Solving elaborate problems with large language models"
+    },
+    "59": {
+      "full_reference": "J. Sun, C. Xu, L. Tang, S. Wang, C. Lin, Y. Gong, L. M. Ni, H.-Y. Shum, and J. Guo, “Think-on-graph: Deep and responsible reasoning of large language model on knowledge graph,” arXiv preprint arXiv:2307.07697, 2023.",
+      "title": "“Think-on-graph: Deep and responsible reasoning of large language model on knowledge graph"
+    },
+    "60": {
+      "full_reference": "L. Luo, Y.-F. Li, G. Haffari, and S. Pan, “Reasoning on graphs: Faithful and interpretable large language model reasoning,” arXiv preprint arXiv:2310.01061, 2023.",
+      "title": "“Reasoning on graphs: Faithful and interpretable large language model reasoning"
+    },
+    "61": {
+      "full_reference": "A. Zhou, K. Yan, M. Shlapentokh-Rothman, H. Wang, and Y.-X. Wang, “Language agent tree search unifies reasoning acting and planning in language models,” arXiv preprint arXiv:2310.04406, 2023.",
+      "title": "“Language agent tree search unifies reasoning acting and planning in language models"
+    },
+    "62": {
+      "full_reference": "X. Feng, Z. Wan, M. Wen, S. M. McAleer, Y. Wen, W. Zhang, and J. Wang, “Alphazero-like tree-search can guide large language model decoding and training,” arXiv preprint arXiv:2309.17179, 2023.",
+      "title": "“Alphazero-like tree-search can guide large language model decoding and training"
+    },
+    "63": {
+      "full_reference": "S. Ma, C. Xu, X. Jiang, M. Li, H. Qu, C. Yang, J. Mao, and J. Guo, “Think-on-graph 2.0: Deep and faithful large language model reasoning with knowledge-guided retrieval augmented generation,” arXiv preprint arXiv:2407.10805, 2024.",
+      "title": "“Think-on-graph 2.0: Deep and faithful large language model reasoning with knowledge-guided retrieval augmented generation"
+    },
+    "64": {
+      "full_reference": "B. Jin, C. Xie, J. Zhang, K. K. Roy, Y. Zhang, Z. Li, R. Li, X. Tang, S. Wang, Y. Meng et al., “Graph chain-of-thought: Augmenting large lan- guage models by reasoning on graphs,” arXiv preprint arXiv:2404.07103, 2024.",
+      "title": "“Graph chain-of-thought: Augmenting large lan- guage models by reasoning on graphs"
+    },
+    "65": {
+      "full_reference": "J. Lu, W. Zhong, W. Huang, Y. Wang, Q. Zhu, F. Mi, B. Wang, W. Wang, X. Zeng, L. Shang et al., “Self: Self-evolution with language feedback,” arXiv preprint arXiv:2310.00533, 2023.",
+      "title": "“Self: Self-evolution with language feedback"
+    },
+    "66": {
+      "full_reference": "Y. Wang, Y. Kordi, S. Mishra, A. Liu, N. A. Smith, D. Khashabi, and H. Hajishirzi, “Self-instruct: Aligning language models with self- generated instructions,” in Proceedings of the 61st annual meeting of the association for computational linguistics (volume 1: long papers), 2023, pp. 13 484–13 508.",
+      "title": "“Self-instruct: Aligning language models with self- generated instructions"
+    },
+    "67": {
+      "full_reference": "E. Zelikman, Y. Wu, J. Mu, and N. Goodman, “Star: Bootstrapping reasoning with reasoning,” Advances in Neural Information Processing Systems, vol. 35, pp. 15 476–15 488, 2022.",
+      "title": "E. Zelikman, Y. Wu, J. Mu, and N. Goodman, “Star: Bootstrapping reasoning with reasoning,” Advances in Neural Information Processing Systems, vol. 35,"
+    },
+    "68": {
+      "full_reference": "J. Huang, S. Gu, L. Hou, Y. Wu, X. Wang, H. Yu, and J. Han, “Large language models can self-improve,” in Proceedings of the 2023 conference on empirical methods in natural language processing, 2023, pp. 1051–1068.",
+      "title": "“Large language models can self-improve"
+    },
+    "69": {
+      "full_reference": "Z. Chen, Y. Deng, H. Yuan, K. Ji, and Q. Gu, “Self-play fine-tuning converts weak language models to strong language models,” arXiv preprint arXiv:2401.01335, 2024.",
+      "title": "“Self-play fine-tuning converts weak language models to strong language models"
+    },
+    "70": {
+      "full_reference": "D. Zhang, S. Zhoubian, Z. Hu, Y. Yue, Y. Dong, and J. Tang, “Rest-mcts*: Llm self-training via process reward guided tree search,” Advances in Neural Information Processing Systems, vol. 37, pp. 64 735– 64 772, 2024.",
+      "title": "D. Zhang, S. Zhoubian, Z. Hu, Y. Yue, Y. Dong, and J. Tang, “Rest-mcts*: Llm self-training via process reward guided tree search,” Advances in Neural "
+    },
+    "71": {
+      "full_reference": "A. Singh, J. D. Co-Reyes, R. Agarwal, A. Anand, P. Patil, X. Garcia, P. J. Liu, J. Harrison, J. Lee, K. Xu et al., “Beyond human data: Scaling self-training for problem-solving with language models,” arXiv preprint arXiv:2312.06585, 2023.",
+      "title": "“Beyond human data: Scaling self-training for problem-solving with language models"
+    },
+    "72": {
+      "full_reference": "Y. Wu, Z. Sun, H. Yuan, K. Ji, Y. Yang, and Q. Gu, “Self-play preference optimization for language model alignment,” arXiv preprint arXiv:2405.00675, 2024.",
+      "title": "“Self-play preference optimization for language model alignment"
+    },
+    "73": {
+      "full_reference": "Z. Wang, K. Wang, Q. Wang, P. Zhang, L. Li, Z. Yang, X. Jin, K. Yu, M. N. Nguyen, L. Liu et al., “Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning,” arXiv preprint arXiv:2504.20073, 2025.",
+      "title": "“Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning"
+    },
+    "74": {
+      "full_reference": "C. Zhao, X. Jia, V. Viswanathan, T. Wu, and G. Neubig, “Self-guide: Better task-specific instruction following via self-synthetic finetuning,” arXiv preprint arXiv:2407.12874, 2024.",
+      "title": "“Self-guide: Better task-specific instruction following via self-synthetic finetuning"
+    },
+    "75": {
+      "full_reference": "W. Zhao, M. Yuksekgonul, S. Wu, and J. Zou, “Sirius: Self-improving multi-agent systems via bootstrapped reasoning,” arXiv preprint arXiv:2502.04780, 2025.",
+      "title": "“Sirius: Self-improving multi-agent systems via bootstrapped reasoning"
+    },
+    "76": {
+      "full_reference": "A. Zweiger, J. Pari, H. Guo, E. Aky¨urek, Y. Kim, and P. Agrawal, “Self- adapting language models,” arXiv preprint arXiv:2506.10943, 2025.",
+      "title": "“Self- adapting language models"
+    },
+    "77": {
+      "full_reference": "A. Zhao, Y. Wu, Y. Yue, T. Wu, Q. Xu, M. Lin, S. Wang, Q. Wu, Z. Zheng, and G. Huang, “Absolute zero: Reinforced self-play reasoning with zero data,” arXiv preprint arXiv:2505.03335, 2025.",
+      "title": "“Absolute zero: Reinforced self-play reasoning with zero data"
+    },
+    "78": {
+      "full_reference": "H. Ma, T. Hu, Z. Pu, L. Boyin, X. Ai, Y. Liang, and M. Chen, “Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent reinforcement learning,” Advances in Neural Information Processing Systems, vol. 37, pp. 15 497–15 525, 2024.",
+      "title": "H. Ma, T. Hu, Z. Pu, L. Boyin, X. Ai, Y. Liang, and M. Chen, “Coevolving with the other you: Fine-tuning llm with sequential cooperative multi-agent r"
+    },
+    "79": {
+      "full_reference": "Z. Li, W. Yu, C. Huang, R. Liu, Z. Liang, F. Liu, J. Che, D. Yu, J. Boyd-Graber, H. Mi et al., “Self-rewarding vision-language model via reasoning decomposition,” arXiv preprint arXiv:2508.19652, 2025.",
+      "title": "“Self-rewarding vision-language model via reasoning decomposition"
+    },
+    "80": {
+      "full_reference": "B. Liu, L. Guertler, S. Yu, Z. Liu, P. Qi, D. Balcells, M. Liu, C. Tan, W. Shi, M. Lin et al., “Spiral: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning,” arXiv preprint arXiv:2506.24119, 2025.",
+      "title": "“Spiral: Self-play on zero-sum games incentivizes reasoning via multi-agent multi-turn reinforcement learning"
+    },
+    "81": {
+      "full_reference": "Y. Zhou, S. Levine, J. Weston, X. Li, and S. Sukhbaatar, “Self- challenging language model agents,” arXiv preprint arXiv:2506.01716, 2025. 21",
+      "title": "“Self- challenging language model agents"
+    },
+    "82": {
+      "full_reference": "L. Chen, M. Prabhudesai, K. Fragkiadaki, H. Liu, and D. Pathak, “Self- questioning language models,” arXiv preprint arXiv:2508.03682, 2025.",
+      "title": "“Self- questioning language models"
+    },
+    "83": {
+      "full_reference": "Y. Wang, L. Yang, Y. Tian, K. Shen, and M. Wang, “Co-evolving llm coder and unit tester via reinforcement learning,” arXiv preprint arXiv:2506.03136, 2025.",
+      "title": "“Co-evolving llm coder and unit tester via reinforcement learning"
+    },
+    "84": {
+      "full_reference": "J. Chen, B. Zhang, R. Ma, P. Wang, X. Liang, Z. Tu, X. Li, and K.-Y. K. Wong, “Spc: Evolving self-play critic via adversarial games for llm reasoning,” arXiv preprint arXiv:2504.19162, 2025.",
+      "title": "“Spc: Evolving self-play critic via adversarial games for llm reasoning"
+    },
+    "85": {
+      "full_reference": "Y. Zhou, Z. Liang, H. Liu, W. Yu, K. Panaganti, L. Song, D. Yu, X. Zhang, H. Mi, and D. Yu, “Evolving language models without labels: Majority drives selection, novelty promotes variation,” arXiv preprint arXiv:2509.15194, 2025.",
+      "title": "novelty promotes variation"
+    },
+    "86": {
+      "full_reference": "W. Fang, S. Liu, Y. Zhou, K. Zhang, T. Zheng, K. Chen, M. Song, and D. Tao, “Serl: Self-play reinforcement learning for large language models with limited data,” arXiv preprint arXiv:2505.20347, 2025.",
+      "title": "“Serl: Self-play reinforcement learning for large language models with limited data"
+    },
+    "87": {
+      "full_reference": "S. Huang, W. Zhong, D. Cai, F. Wan, C. Wang, M. Wang, M. Qiao, and R. Xu, “Empowering self-learning of llms: Inner knowledge explicitation as a catalyst,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 39, no. 23, 2025, pp. 24 150–24 158.",
+      "title": "“Empowering self-learning of llms: Inner knowledge explicitation as a catalyst"
+    },
+    "88": {
+      "full_reference": "T. Simonds and A. Yoshiyama, “Ladder: Self-improving llms through recursive problem decomposition,” arXiv preprint arXiv:2503.00735, 2025.",
+      "title": "“Ladder: Self-improving llms through recursive problem decomposition"
+    },
+    "89": {
+      "full_reference": "Z. Lin, S. Shen, J. Shang, J. Weston, and Y. Nie, “Learning to solve and verify: A self-play framework for code and test generation,” arXiv preprint arXiv:2502.14948, 2025.",
+      "title": "“Learning to solve and verify: A self-play framework for code and test generation"
+    },
+    "90": {
+      "full_reference": "J. G. Kuba, M. Gu, Q. Ma, Y. Tian, V. Mohan, and J. Chen, “Language self-play for data-free training,” arXiv preprint arXiv:2509.07414, 2025.",
+      "title": "“Language self-play for data-free training"
+    },
+    "91": {
+      "full_reference": "B. Liu, C. Jin, S. Kim, W. Yuan, W. Zhao, I. Kulikov, X. Li, S. Sukhbaatar, J. Lanchantin, and J. Weston, “Spice: Self-play in corpus environments improves reasoning,” arXiv preprint arXiv:2510.24684, 2025.",
+      "title": "“Spice: Self-play in corpus environments improves reasoning"
+    },
+    "92": {
+      "full_reference": "W. Yu, Z. Liang, C. Huang, K. Panaganti, T. Fang, H. Mi, and D. Yu, “Guided self-evolving llms with minimal human supervision,” arXiv preprint arXiv:2512.02472, 2025.",
+      "title": "“Guided self-evolving llms with minimal human supervision"
+    },
+    "93": {
+      "full_reference": "Q. Wang, B. Liu, T. Zhou, J. Shi, Y. Lin, Y. Chen, H. H. Li, K. Wan, and W. Zhao, “Vision-zero: Scalable vlm self-improvement via strategic gamified self-play,” arXiv preprint arXiv:2509.25541, 2025.",
+      "title": "“Vision-zero: Scalable vlm self-improvement via strategic gamified self-play"
+    },
+    "94": {
+      "full_reference": "Y. He, C. Huang, Z. Li, J. Huang, and Y. Yang, “Visplay: Self-evolving vision-language models from images,” arXiv preprint arXiv:2511.15661, 2025.",
+      "title": "“Visplay: Self-evolving vision-language models from images"
+    },
+    "95": {
+      "full_reference": "P. Xia, K. Zeng, J. Liu, C. Qin, F. Wu, Y. Zhou, C. Xiong, and H. Yao, “Agent0: Unleashing self-evolving agents from zero data via tool-integrated reasoning,” arXiv preprint arXiv:2511.16043, 2025.",
+      "title": "“Agent0: Unleashing self-evolving agents from zero data via tool-integrated reasoning"
+    },
+    "96": {
+      "full_reference": "S. Wang, Z. Jiao, Z. Zhang, Y. Peng, X. Ze, B. Yang, W. Wang, H. Wei, and L. Zhang, “Socratic-zero: Bootstrapping reasoning via data-free agent co-evolution,” arXiv preprint arXiv:2509.24726, 2025.",
+      "title": "“Socratic-zero: Bootstrapping reasoning via data-free agent co-evolution"
+    },
+    "97": {
+      "full_reference": "Z. Yang, W. Shen, C. Li, R. Chen, F. Wan, M. Yan, X. Quan, and F. Huang, “Spell: Self-play reinforcement learning for evolving long- context language models,” arXiv preprint arXiv:2509.23863, 2025.",
+      "title": "“Spell: Self-play reinforcement learning for evolving long- context language models"
+    },
+    "98": {
+      "full_reference": "A. Asai, Z. Wu, Y. Wang, A. Sil, and H. Hajishirzi, “Self-rag: Learning to retrieve, generate, and critique through self-reflection,” 2024.",
+      "title": "A. Asai, Z. Wu, Y. Wang, A. Sil, and H. Hajishirzi, “Self-rag: Learning to retrieve, generate, and critique through self-reflection,” 2024."
+    },
+    "99": {
+      "full_reference": "B. Jin, H. Zeng, Z. Yue, J. Yoon, S. Arik, D. Wang, H. Zamani, and J. Han, “Search-r1: Training llms to reason and leverage search engines with reinforcement learning,” arXiv preprint arXiv:2503.09516, 2025.",
+      "title": "“Search-r1: Training llms to reason and leverage search engines with reinforcement learning"
+    },
+    "100": {
+      "full_reference": "O. Khattab, A. Singhvi, P. Maheshwari, Z. Zhang, K. Santhanam, S. Vardhamanan, S. Haq, A. Sharma, T. T. Joshi, H. Moazam et al., “Dspy: Compiling declarative language model calls into self-improving pipelines,” arXiv preprint arXiv:2310.03714, 2023.",
+      "title": "“Dspy: Compiling declarative language model calls into self-improving pipelines"
+    },
+    "101": {
+      "full_reference": "X. Li, G. Dong, J. Jin, Y. Zhang, Y. Zhou, Y. Zhu, P. Zhang, and Z. Dou, “Search-o1: Agentic search-enhanced large reasoning models,” arXiv preprint arXiv:2501.05366, 2025.",
+      "title": "“Search-o1: Agentic search-enhanced large reasoning models"
+    },
+    "102": {
+      "full_reference": "M. Chen, L. Sun, T. Li, H. Sun, Y. Zhou, C. Zhu, H. Wang, J. Z. Pan, W. Zhang, H. Chen et al., “Learning to reason with search for llms via reinforcement learning,” arXiv preprint arXiv:2503.19470, 2025.",
+      "title": "“Learning to reason with search for llms via reinforcement learning"
+    },
+    "103": {
+      "full_reference": "Y. Qin, Z. Cai, D. Jin, L. Yan, S. Liang, K. Zhu, Y. Lin, X. Han, N. Ding, H. Wang et al., “Webcpm: Interactive web search for chinese long-form question answering,” arXiv preprint arXiv:2305.06849, 2023.",
+      "title": "“Webcpm: Interactive web search for chinese long-form question answering"
+    },
+    "104": {
+      "full_reference": "H. He, W. Yao, K. Ma, W. Yu, Y. Dai, H. Zhang, Z. Lan, and D. Yu, “Webvoyager: Building an end-to-end web agent with large multimodal models,” arXiv preprint arXiv:2401.13919, 2024.",
+      "title": "“Webvoyager: Building an end-to-end web agent with large multimodal models"
+    },
+    "105": {
+      "full_reference": "Y. Zheng, D. Fu, X. Hu, X. Cai, L. Ye, P. Lu, and P. Liu, “Deepre- searcher: Scaling deep research via reinforcement learning in real-world environments,” arXiv preprint arXiv:2504.03160, 2025.",
+      "title": "“Deepre- searcher: Scaling deep research via reinforcement learning in real-world environments"
+    },
+    "106": {
+      "full_reference": "X. Li, J. Jin, G. Dong, H. Qian, Y. Wu, J.-R. Wen, Y. Zhu, and Z. Dou, “Webthinker: Empowering large reasoning models with deep research capability,” arXiv preprint arXiv:2504.21776, 2025.",
+      "title": "“Webthinker: Empowering large reasoning models with deep research capability"
+    },
+    "107": {
+      "full_reference": "Z. Chen, K. Liu, Q. Wang, J. Liu, W. Zhang, K. Chen, and F. Zhao, “Mindsearch: Mimicking human minds elicits deep ai searcher,” arXiv preprint arXiv:2407.20183, 2024.",
+      "title": "“Mindsearch: Mimicking human minds elicits deep ai searcher"
+    },
+    "108": {
+      "full_reference": "M. Du, B. Xu, C. Zhu, X. Wang, and Z. Mao, “Deepresearch bench: A comprehensive benchmark for deep research agents,” arXiv preprint arXiv:2506.11763, 2025.",
+      "title": "“Deepresearch bench: A comprehensive benchmark for deep research agents"
+    },
+    "109": {
+      "full_reference": "G. Chen, Z. Qiao, W. Wang, D. Yu, X. Chen, H. Sun, M. Liao, K. Fan, Y. Jiang, P. Xie, W. X. Zhao, R. Song, and F. Huang, “Mars: Co-evolving dual-system deep research via multi-agent reinforcement learning,” 2025.",
+      "title": "G. Chen, Z. Qiao, W. Wang, D. Yu, X. Chen, H. Sun, M. Liao, K. Fan, Y. Jiang, P. Xie, W. X. Zhao, R. Song, and F. Huang, “Mars: Co-evolving dual-syste"
+    },
+    "110": {
+      "full_reference": "X. Liang, J. Yang, Y. Wang, C. Tang, Z. Zheng, S. Song, Z. Lin, Y. Yang, S. Niu, H. Wang et al., “Surveyx: Academic survey automation via large language models,” arXiv preprint arXiv:2502.14776, 2025.",
+      "title": "“Surveyx: Academic survey automation via large language models"
+    },
+    "111": {
+      "full_reference": "T. D. Team, B. Li, B. Zhang, D. Zhang, F. Huang, G. Li, G. Chen, H. Yin, J. Wu, J. Zhou et al., “Tongyi deepresearch technical report,” arXiv preprint arXiv:2510.24701, 2025.",
+      "title": "“Tongyi deepresearch technical report"
+    },
+    "112": {
+      "full_reference": "X.-P. Nguyen, S. Pandit, R. G. Reddy, A. Xu, S. Savarese, C. Xiong, and S. Joty, “Sfr-deepresearch: Towards effective reinforcement learning for autonomously reasoning single agents,” arXiv preprint arXiv:2509.06283, 2025.",
+      "title": "“Sfr-deepresearch: Towards effective reinforcement learning for autonomously reasoning single agents"
+    },
+    "113": {
+      "full_reference": "R. Lu, Z. Hou, Z. Wang, H. Zhang, X. Liu, Y. Li, S. Feng, J. Tang, and Y. Dong, “Deepdive: Advancing deep search agents with knowledge graphs and multi-turn rl,” arXiv preprint arXiv:2509.10446, 2025.",
+      "title": "“Deepdive: Advancing deep search agents with knowledge graphs and multi-turn rl"
+    },
+    "114": {
+      "full_reference": "F. Wu, W. Xuan, H. Qi, X. Lu, A. Tu, L. E. Li, and Y. Choi, “Deepsearch: Overcome the bottleneck of reinforcement learning with verifiable rewards via monte carlo tree search,” arXiv preprint arXiv:2509.25454, 2025.",
+      "title": "“Deepsearch: Overcome the bottleneck of reinforcement learning with verifiable rewards via monte carlo tree search"
+    },
+    "115": {
+      "full_reference": "Z. Li, X. Guan, B. Zhang, S. Huang, H. Zhou, S. Lai, M. Yan, Y. Jiang, P. Xie, F. Huang et al., “Webweaver: Structuring web-scale evidence with dynamic outlines for open-ended deep research,” arXiv preprint arXiv:2509.13312, 2025.",
+      "title": "“Webweaver: Structuring web-scale evidence with dynamic outlines for open-ended deep research"
+    },
+    "116": {
+      "full_reference": "Z. Z. Wang, J. Mao, D. Fried, and G. Neubig, “Agent workflow memory,” arXiv preprint arXiv:2409.07429, 2024.",
+      "title": "“Agent workflow memory"
+    },
+    "117": {
+      "full_reference": "X. Tang, T. Qin, T. Peng, Z. Zhou, D. Shao, T. Du, X. Wei, P. Xia, F. Wu, H. Zhu et al., “Agent kb: Leveraging cross-domain experience for agentic problem solving,” arXiv preprint arXiv:2507.06229, 2025.",
+      "title": "“Agent kb: Leveraging cross-domain experience for agentic problem solving"
+    },
+    "118": {
+      "full_reference": "B. Zheng, M. Y. Fatemi, X. Jin, Z. Z. Wang, A. Gandhi, Y. Song, Y. Gu, J. Srinivasa, G. Liu, G. Neubig et al., “Skillweaver: Web agents can self-improve by discovering and honing skills,” arXiv preprint arXiv:2504.07079, 2025.",
+      "title": "“Skillweaver: Web agents can self-improve by discovering and honing skills"
+    },
+    "119": {
+      "full_reference": "C. Yang, C. Zhao, Q. Gu, and D. Zhou, “Cops: Empowering llm agents with provable cross-task experience sharing,” arXiv preprint arXiv:2410.16670, 2024.",
+      "title": "“Cops: Empowering llm agents with provable cross-task experience sharing"
+    },
+    "120": {
+      "full_reference": "L. A. Agrawal, S. Tan, D. Soylu, N. Ziems, R. Khare, K. Opsahl- Ong, A. Singhvi, H. Shandilya, M. J. Ryan, M. Jiang et al., “Gepa: Reflective prompt evolution can outperform reinforcement learning,” arXiv preprint arXiv:2507.19457, 2025.",
+      "title": "“Gepa: Reflective prompt evolution can outperform reinforcement learning"
+    },
+    "121": {
+      "full_reference": "Q. Zhang, C. Hu, S. Upasani, B. Ma, F. Hong, V. Kamanuru, J. Rainton, C. Wu, M. Ji, H. Li et al., “Agentic context engineering: Evolving contexts for self-improving language models,” arXiv preprint arXiv:2510.04618, 2025.",
+      "title": "“Agentic context engineering: Evolving contexts for self-improving language models"
+    },
+    "122": {
+      "full_reference": "M. Suzgun, M. Yuksekgonul, F. Bianchi, D. Jurafsky, and J. Zou, “Dynamic cheatsheet: Test-time learning with adaptive memory, 2025,” URL https://arxiv. org/abs/2504.07952.",
+      "title": "M. Suzgun, M. Yuksekgonul, F. Bianchi, D. Jurafsky, and J. Zou, “Dynamic cheatsheet: Test-time learning with adaptive memory, 2025,” URL https://arxiv"
+    },
+    "123": {
+      "full_reference": "H. Zhou, Y. Chen, S. Guo, X. Yan, K. H. Lee, Z. Wang, K. Y. Lee, G. Zhang, K. Shao, L. Yang et al., “Memento: Fine-tuning llm agents without fine-tuning llms,” arXiv preprint arXiv:2508.16153, 2025.",
+      "title": "“Memento: Fine-tuning llm agents without fine-tuning llms"
+    },
+    "124": {
+      "full_reference": "S. Ouyang, J. Yan, I. Hsu, Y. Chen, K. Jiang, Z. Wang, R. Han, L. T. Le, S. Daruki, X. Tang et al., “Reasoningbank: Scaling agent self-evolving with reasoning memory,” arXiv preprint arXiv:2509.25140, 2025.",
+      "title": "“Reasoningbank: Scaling agent self-evolving with reasoning memory"
+    },
+    "125": {
+      "full_reference": "S. Chen, S. Lin, X. Gu, Y. Shi, H. Lian, L. Yun, D. Chen, W. Sun, L. Cao, and Q. Wang, “Swe-exp: Experience-driven software issue resolution,” arXiv preprint arXiv:2507.23361, 2025.",
+      "title": "“Swe-exp: Experience-driven software issue resolution"
+    },
+    "126": {
+      "full_reference": "Z. Z. Wang, A. Gandhi, G. Neubig, and D. Fried, “Inducing program- matic skills for agentic tasks,” arXiv preprint arXiv:2504.06821, 2025.",
+      "title": "“Inducing program- matic skills for agentic tasks"
+    },
+    "127": {
+      "full_reference": "K. Zhang, X. Chen, B. Liu, T. Xue, Z. Liao, Z. Liu, X. Wang, Y. Ning, Z. Chen, X. Fu et al., “Agent learning via early experience,” arXiv preprint arXiv:2510.08558, 2025.",
+      "title": "“Agent learning via early experience"
+    },
+    "128": {
+      "full_reference": "Z. Cao, J. Deng, L. Yu, W. Zhou, Z. Liu, B. Ding, and H. Zhao, “Remember me, refine me: A dynamic procedural memory framework for experience-driven agent evolution,” arXiv preprint arXiv:2512.10696, 2025.",
+      "title": "refine me: A dynamic procedural memory framework for experience-driven agent evolution"
+    },
+    "129": {
+      "full_reference": "G. Zhang, M. Fu, and S. Yan, “Memgen: Weaving generative latent memory for self-evolving agents,” arXiv preprint arXiv:2509.24704, 2025.",
+      "title": "“Memgen: Weaving generative latent memory for self-evolving agents"
+    },
+    "130": {
+      "full_reference": "Z. Cai, X. Guo, Y. Pei, J. Feng, J. Su, J. Chen, Y.-Q. Zhang, W.-Y. Ma, M. Wang, and H. Zhou, “Flex: Continuous agent evolution via forward learning from experience,” arXiv preprint arXiv:2511.06449, 2025. 22",
+      "title": "“Flex: Continuous agent evolution via forward learning from experience"
+    },
+    "131": {
+      "full_reference": "M. Ho, C. Si, Z. Feng, F. Yu, Y. Yang, Z. Liu, Z. Hu, and L. Qin, “Arcmemo: Abstract reasoning composition with lifelong llm memory,” arXiv preprint arXiv:2509.04439, 2025.",
+      "title": "“Arcmemo: Abstract reasoning composition with lifelong llm memory"
+    },
+    "132": {
+      "full_reference": "Y. Cai, S. Cai, Y. Shi, Z. Xu, L. Chen, Y. Qin, X. Tan, G. Li, Z. Li, H. Lin et al., “Training-free group relative policy optimization,” arXiv preprint arXiv:2510.08191, 2025.",
+      "title": "“Training-free group relative policy optimization"
+    },
+    "133": {
+      "full_reference": "R. Wu, X. Wang, J. Mei, P. Cai, D. Fu, C. Yang, L. Wen, X. Yang, Y. Shen, Y. Wang et al., “Evolver: Self-evolving llm agents through an experience-driven lifecycle,” arXiv preprint arXiv:2510.16079, 2025.",
+      "title": "“Evolver: Self-evolving llm agents through an experience-driven lifecycle"
+    },
+    "134": {
+      "full_reference": "G. Zhang, F. Meng, G. Wan, Z. Li, K. Wang, Z. Yin, L. Bai, and S. Yan, “Latentevolve: Self-evolving test-time scaling in latent space,” arXiv preprint arXiv:2509.24771, 2025.",
+      "title": "“Latentevolve: Self-evolving test-time scaling in latent space"
+    },
+    "135": {
+      "full_reference": "J. Wang, Q. Yan, Y. Wang, Y. Tian, S. S. Mishra, Z. Xu, M. Gandhi, P. Xu, and L. L. Cheong, “Reinforcement learning for self-improving agent with skill library,” arXiv preprint arXiv:2512.17102, 2025.",
+      "title": "“Reinforcement learning for self-improving agent with skill library"
+    },
+    "136": {
+      "full_reference": "Y. Zhai, S. Tao, C. Chen, A. Zou, Z. Chen, Q. Fu, S. Mai, L. Yu, J. Deng, Z. Cao et al., “Agentevolver: Towards efficient self-evolving agent system,” arXiv preprint arXiv:2511.10395, 2025.",
+      "title": "“Agentevolver: Towards efficient self-evolving agent system"
+    },
+    "137": {
+      "full_reference": "W. Zhong, L. Guo, Q. Gao, H. Ye, and Y. Wang, “Memorybank: En- hancing large language models with long-term memory,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 38, no. 17, 2024, pp. 19 724–19 731.",
+      "title": "“Memorybank: En- hancing large language models with long-term memory"
+    },
+    "138": {
+      "full_reference": "C. Packer, V. Fang, S. Patil, K. Lin, S. Wooders, and J. Gonzalez, “Memgpt: Towards llms as operating systems.” 2023.",
+      "title": "C. Packer, V. Fang, S. Patil, K. Lin, S. Wooders, and J. Gonzalez, “Memgpt: Towards llms as operating systems.” 2023."
+    },
+    "139": {
+      "full_reference": "L. Liu, X. Yang, Y. Shen, B. Hu, Z. Zhang, J. Gu, and G. Zhang, “Think- in-memory: Recalling and post-thinking enable llms with long-term memory,” arXiv preprint arXiv:2311.08719, 2023.",
+      "title": "“Think- in-memory: Recalling and post-thinking enable llms with long-term memory"
+    },
+    "140": {
+      "full_reference": "K.-H. Lee, X. Chen, H. Furuta, J. Canny, and I. Fischer, “A human- inspired reading agent with gist memory of very long contexts,” arXiv preprint arXiv:2402.09727, 2024.",
+      "title": "“A human- inspired reading agent with gist memory of very long contexts"
+    },
+    "141": {
+      "full_reference": "X. Li and X. Qiu, “Mot: Memory-of-thought enables chatgpt to self- improve,” arXiv preprint arXiv:2305.05181, 2023.",
+      "title": "“Mot: Memory-of-thought enables chatgpt to self- improve"
+    },
+    "142": {
+      "full_reference": "R. Fang, Y. Liang, X. Wang, J. Wu, S. Qiao, P. Xie, F. Huang, H. Chen, and N. Zhang, “Memp: Exploring agent procedural memory,” arXiv preprint arXiv:2508.06433, 2025.",
+      "title": "“Memp: Exploring agent procedural memory"
+    },
+    "143": {
+      "full_reference": "Z. Tan, J. Yan, I.-H. Hsu, R. Han, Z. Wang, L. Le, Y. Song, Y. Chen, H. Palangi, G. Lee et al., “In prospect and retrospect: Reflective memory management for long-term personalized dialogue agents,” in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 8416–8439.",
+      "title": "“In prospect and retrospect: Reflective memory management for long-term personalized dialogue agents"
+    },
+    "144": {
+      "full_reference": "J. Fang, X. Deng, H. Xu, Z. Jiang, Y. Tang, Z. Xu, S. Deng, Y. Yao, M. Wang, S. Qiao et al., “Lightmem: Lightweight and efficient memory- augmented generation,” arXiv preprint arXiv:2510.18866, 2025.",
+      "title": "“Lightmem: Lightweight and efficient memory- augmented generation"
+    },
+    "145": {
+      "full_reference": "B. Yan, C. Li, H. Qian, S. Lu, and Z. Liu, “General agentic memory via deep research,” arXiv preprint arXiv:2511.18423, 2025.",
+      "title": "“General agentic memory via deep research"
+    },
+    "146": {
+      "full_reference": "R. Ye, Z. Zhang, K. Li, H. Yin, Z. Tao, Y. Zhao, L. Su, L. Zhang, Z. Qiao, X. Wang et al., “Agentfold: Long-horizon web agents with proactive context management,” arXiv preprint arXiv:2510.24699, 2025.",
+      "title": "“Agentfold: Long-horizon web agents with proactive context management"
+    },
+    "147": {
+      "full_reference": "W. Xu, Z. Liang, K. Mei, H. Gao, J. Tan, and Y. Zhang, “A-mem: Agentic memory for llm agents,” arXiv preprint arXiv:2502.12110, 2025.",
+      "title": "“A-mem: Agentic memory for llm agents"
+    },
+    "148": {
+      "full_reference": "P. Rasmussen, P. Paliychuk, T. Beauvais, J. Ryan, and D. Chalef, “Zep: a temporal knowledge graph architecture for agent memory,” arXiv preprint arXiv:2501.13956, 2025.",
+      "title": "“Zep: a temporal knowledge graph architecture for agent memory"
+    },
+    "149": {
+      "full_reference": "Z. Wang, H. Xu, J. Wang, X. Zhang, M. Yan, J. Zhang, F. Huang, and H. Ji, “Mobile-agent-e: Self-evolving mobile assistant for complex tasks,” arXiv preprint arXiv:2501.11733, 2025.",
+      "title": "“Mobile-agent-e: Self-evolving mobile assistant for complex tasks"
+    },
+    "150": {
+      "full_reference": "P. Chhikara, D. Khant, S. Aryan, T. Singh, and D. Yadav, “Mem0: Building production-ready ai agents with scalable long-term memory,” arXiv preprint arXiv:2504.19413, 2025.",
+      "title": "“Mem0: Building production-ready ai agents with scalable long-term memory"
+    },
+    "151": {
+      "full_reference": "Y. Wang, R. Takanobu, Z. Liang, Y. Mao, Y. Hu, J. McAuley, and X. Wu, “Mem-{\\alpha}: Learning memory construction via reinforcement learning,” arXiv preprint arXiv:2509.25911, 2025.",
+      "title": "“Mem-{\\alpha}: Learning memory construction via reinforcement learning"
+    },
+    "152": {
+      "full_reference": "Y. Wang, D. Krotov, Y. Hu, Y. Gao, W. Zhou, J. McAuley, D. Gutfreund, R. Feris, and Z. He, “M+: Extending memoryllm with scalable long- term memory,” in Forty-second International Conference on Machine Learning, 2025.",
+      "title": "Y. Wang, D. Krotov, Y. Hu, Y. Gao, W. Zhou, J. McAuley, D. Gutfreund, R. Feris, and Z. He, “M+: Extending memoryllm with scalable long- term memory,” "
+    },
+    "153": {
+      "full_reference": "R. Li, Z. Zhang, X. Bo, Z. Tian, X. Chen, Q. Dai, Z. Dong, and R. Tang, “Cam: A constructivist view of agentic memory for llm-based reading comprehension,” arXiv preprint arXiv:2510.05520, 2025.",
+      "title": "“Cam: A constructivist view of agentic memory for llm-based reading comprehension"
+    },
+    "154": {
+      "full_reference": "Y. Zhang, J. Shu, Y. Ma, X. Lin, S. Wu, and J. Sang, “Memory as action: Autonomous context curation for long-horizon agentic tasks,” arXiv preprint arXiv:2510.12635, 2025.",
+      "title": "“Memory as action: Autonomous context curation for long-horizon agentic tasks"
+    },
+    "155": {
+      "full_reference": "G. Zhang, H. Yu, K. Yang, B. Wu, F. Huang, Y. Li, and S. Yan, “Evoroute: Experience-driven self-routing llm agent systems,” arXiv preprint arXiv:2601.02695, 2026.",
+      "title": "“Evoroute: Experience-driven self-routing llm agent systems"
+    },
+    "156": {
+      "full_reference": "G. Zhang, H. Ren, C. Zhan, Z. Zhou, J. Wang, H. Zhu, W. Zhou, and S. Yan, “Memevolve: Meta-evolution of agent memory systems,” arXiv preprint arXiv:2512.18746, 2025.",
+      "title": "“Memevolve: Meta-evolution of agent memory systems"
+    },
+    "157": {
+      "full_reference": "H. Zhang, Q. Long, J. Bao, T. Feng, W. Zhang, H. Yue, and W. Wang, “Memskill: Learning and evolving memory skills for self-evolving agents,” arXiv preprint arXiv:2602.02474, 2026.",
+      "title": "“Memskill: Learning and evolving memory skills for self-evolving agents"
+    },
+    "158": {
+      "full_reference": "S. Yao, J. Zhao, D. Yu, N. Du, I. Shafran, K. R. Narasimhan, and Y. Cao, “React: Synergizing reasoning and acting in language models,” in The eleventh international conference on learning representations, 2022.",
+      "title": "S. Yao, J. Zhao, D. Yu, N. Du, I. Shafran, K. R. Narasimhan, and Y. Cao, “React: Synergizing reasoning and acting in language models,” in The eleventh"
+    },
+    "159": {
+      "full_reference": "R. Nakano, J. Hilton, S. Balaji, J. Wu, L. Ouyang, C. Kim, C. Hesse, S. Jain, V. Kosaraju, W. Saunders et al., “Webgpt: Browser- assisted question-answering with human feedback,” arXiv preprint arXiv:2112.09332, 2021.",
+      "title": "“Webgpt: Browser- assisted question-answering with human feedback"
+    },
+    "160": {
+      "full_reference": "G. Wang, Y. Xie, Y. Jiang, A. Mandlekar, C. Xiao, Y. Zhu, L. Fan, and A. Anandkumar, “Voyager: An open-ended embodied agent with large language models,” arXiv preprint arXiv:2305.16291, 2023.",
+      "title": "“Voyager: An open-ended embodied agent with large language models"
+    },
+    "161": {
+      "full_reference": "L. Gao, A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig, “Pal: Program-aided language models,” in International Conference on Machine Learning. PMLR, 2023, pp. 10 764–10 799.",
+      "title": "L. Gao, A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig, “Pal: Program-aided language models,” in International Conference on M"
+    },
+    "162": {
+      "full_reference": "T. Cai, X. Wang, T. Ma, X. Chen, and D. Zhou, “Large language models as tool makers,” arXiv preprint arXiv:2305.17126, 2023.",
+      "title": "“Large language models as tool makers"
+    },
+    "163": {
+      "full_reference": "C. Qian, C. Han, Y. Fung, Y. Qin, Z. Liu, and H. Ji, “Creator: Tool creation for disentangling abstract and concrete reasoning of large language models,” in Findings of the Association for Computational Linguistics: EMNLP 2023, 2023, pp. 6922–6939.",
+      "title": "” in Findings of the Association for Computational Linguistics:"
+    },
+    "164": {
+      "full_reference": "L. Yuan, Y. Chen, X. Wang, Y. R. Fung, H. Peng, and H. Ji, “Craft: Customizing llms by creating and retrieving from specialized toolsets,” arXiv preprint arXiv:2309.17428, 2023.",
+      "title": "“Craft: Customizing llms by creating and retrieving from specialized toolsets"
+    },
+    "165": {
+      "full_reference": "G. W¨olflein, D. Ferber, D. Truhn, O. Arandjelovic, and J. N. Kather, “Llm agents making agent tools,” in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 26 092–26 130.",
+      "title": "“Llm agents making agent tools"
+    },
+    "166": {
+      "full_reference": "J. Qiu, X. Qi, T. Zhang, X. Juan, J. Guo, Y. Lu, Y. Wang, Z. Yao, Q. Ren, X. Jiang et al., “Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution,” arXiv preprint arXiv:2505.20286, 2025.",
+      "title": "“Alita: Generalist agent enabling scalable agentic reasoning with minimal predefinition and maximal self-evolution"
+    },
+    "167": {
+      "full_reference": "J. Zhang, J. Xiang, Z. Yu, F. Teng, X. Chen, J. Chen, M. Zhuge, X. Cheng, S. Hong, J. Wang et al., “Aflow: Automating agentic workflow generation,” arXiv preprint arXiv:2410.10762, 2024.",
+      "title": "“Aflow: Automating agentic workflow generation"
+    },
+    "168": {
+      "full_reference": "C. Qian, Z. Xie, Y. Wang, W. Liu, K. Zhu, H. Xia, Y. Dang, Z. Du, W. Chen, C. Yang et al., “Scaling large language model-based multi- agent collaboration,” arXiv preprint arXiv:2406.07155, 2024.",
+      "title": "“Scaling large language model-based multi- agent collaboration"
+    },
+    "169": {
+      "full_reference": "S. Hu, C. Lu, and J. Clune, “Automated design of agentic systems,” arXiv preprint arXiv:2408.08435, 2024.",
+      "title": "“Automated design of agentic systems"
+    },
+    "170": {
+      "full_reference": "Z. Li, S. Xu, K. Mei, W. Hua, B. Rama, O. Raheja, H. Wang, H. Zhu, and Y. Zhang, “Autoflow: Automated workflow generation for large language model agents,” arXiv preprint arXiv:2407.12821, 2024.",
+      "title": "“Autoflow: Automated workflow generation for large language model agents"
+    },
+    "171": {
+      "full_reference": "M. Zhuge, W. Wang, L. Kirsch, F. Faccio, D. Khizbullin, and J. Schmidhuber, “Language agents as optimizable graphs,” arXiv preprint arXiv:2402.16823, 2024.",
+      "title": "“Language agents as optimizable graphs"
+    },
+    "172": {
+      "full_reference": "R. Ye, S. Tang, R. Ge, Y. Du, Z. Yin, S. Chen, and J. Shao, “Mas-gpt: Training llms to build llm-based multi-agent systems,” arXiv preprint arXiv:2503.03686, 2025.",
+      "title": "“Mas-gpt: Training llms to build llm-based multi-agent systems"
+    },
+    "173": {
+      "full_reference": "G. Chen, S. Dong, Y. Shu, G. Zhang, J. Sesay, B. F. Karlsson, J. Fu, and Y. Shi, “Autoagents: A framework for automatic agent generation,” arXiv preprint arXiv:2309.17288, 2023.",
+      "title": "“Autoagents: A framework for automatic agent generation"
+    },
+    "174": {
+      "full_reference": "G. Zhang, Y. Yue, X. Sun, G. Wan, M. Yu, J. Fang, K. Wang, T. Chen, and D. Cheng, “G-designer: Architecting multi-agent communication topologies via graph neural networks,” arXiv preprint arXiv:2410.11782, 2024.",
+      "title": "“G-designer: Architecting multi-agent communication topologies via graph neural networks"
+    },
+    "175": {
+      "full_reference": "G. Zhang, L. Niu, J. Fang, K. Wang, L. Bai, and X. Wang, “Multi-agent architecture search via agentic supernet,” arXiv preprint arXiv:2502.04180, 2025.",
+      "title": "“Multi-agent architecture search via agentic supernet"
+    },
+    "176": {
+      "full_reference": "S. Yuan, K. Song, J. Chen, X. Tan, D. Li, and D. Yang, “Evoagent: Towards automatic multi-agent generation via evolutionary algorithms,” in Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025, pp. 6192–6217.",
+      "title": "“Evoagent: Towards automatic multi-agent generation via evolutionary algorithms"
+    },
+    "177": {
+      "full_reference": "H. Zhou, X. Wan, R. Sun, H. Palangi, S. Iqbal, I. Vuli´c, A. Korhonen, and S. ¨O. Arık, “Multi-agent design: Optimizing agents with better prompts and topologies,” arXiv preprint arXiv:2502.02533, 2025.",
+      "title": "“Multi-agent design: Optimizing agents with better prompts and topologies"
+    },
+    "178": {
+      "full_reference": "S. R. Motwani, C. Smith, R. J. Das, R. Rafailov, I. Laptev, P. H. Torr, F. Pizzati, R. Clark, and C. S. de Witt, “Malt: Improving reasoning with multi-agent llm training,” arXiv preprint arXiv:2412.01928, 2024. 23",
+      "title": "“Malt: Improving reasoning with multi-agent llm training"
+    },
+    "179": {
+      "full_reference": "Z. Wan, Y. Li, X. Wen, Y. Song, H. Wang, L. Yang, M. Schmidt, J. Wang, W. Zhang, S. Hu et al., “Rema: Learning to meta-think for llms with multi-agent reinforcement learning,” arXiv preprint arXiv:2503.09501, 2025.",
+      "title": "“Rema: Learning to meta-think for llms with multi-agent reinforcement learning"
+    },
+    "180": {
+      "full_reference": "B. Li, Z. Zhao, D.-H. Lee, and G. Wang, “Adaptive graph pruning for multi-agent communication,” arXiv preprint arXiv:2506.02951, 2025.",
+      "title": "“Adaptive graph pruning for multi-agent communication"
+    },
+    "181": {
+      "full_reference": "G. Zhang, M. Fu, G. Wan, M. Yu, K. Wang, and S. Yan, “G-memory: Tracing hierarchical memory for multi-agent systems,” arXiv preprint arXiv:2506.07398, 2025.",
+      "title": "“G-memory: Tracing hierarchical memory for multi-agent systems"
+    },
+    "182": {
+      "full_reference": "A. Rezazadeh, Z. Li, A. Lou, Y. Zhao, W. Wei, and Y. Bao, “Collabo- rative memory: Multi-user memory sharing in llm agents with dynamic access control,” arXiv preprint arXiv:2505.18279, 2025.",
+      "title": "“Collabo- rative memory: Multi-user memory sharing in llm agents with dynamic access control"
+    },
+    "183": {
+      "full_reference": "J. Zou, X. Yang, R. Qiu, G. Li, K. Tieu, P. Lu, K. Shen, H. Tong, Y. Choi, J. He et al., “Latent collaboration in multi-agent systems,” arXiv preprint arXiv:2511.20639, 2025.",
+      "title": "“Latent collaboration in multi-agent systems"
+    },
+    "184": {
+      "full_reference": "H. Xu, J. Hu, K. Zhang, L. Yu, Y. Tang, X. Song, Y. Duan, L. Ai, and B. Shi, “Sedm: Scalable self-evolving distributed memory for agents,” arXiv preprint arXiv:2509.09498, 2025.",
+      "title": "“Sedm: Scalable self-evolving distributed memory for agents"
+    },
+    "185": {
+      "full_reference": "W. Chen, J. Yuan, C. Qian, C. Yang, Z. Liu, and M. Sun, “Optima: Optimizing effectiveness and efficiency for llm-based multi-agent system,” in Findings of the Association for Computational Linguistics: ACL 2025, 2025, pp. 11 534–11 557.",
+      "title": "” in Findings of the Association for Computational Linguistics:"
+    },
+    "186": {
+      "full_reference": "C. Park, S. Han, X. Guo, A. E. Ozdaglar, K. Zhang, and J.-K. Kim, “Maporl: Multi-agent post-co-training for collaborative large language models with reinforcement learning,” in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 30 215–30 248.",
+      "title": "“Maporl: Multi-agent post-co-training for collaborative large language models with reinforcement learning"
+    },
+    "187": {
+      "full_reference": "J. Liao, M. Wen, J. Wang, and W. Zhang, “Marft: Multi-agent reinforcement fine-tuning,” arXiv preprint arXiv:2504.16129, 2025.",
+      "title": "“Marft: Multi-agent reinforcement fine-tuning"
+    },
+    "188": {
+      "full_reference": "S. Liu, T. Chen, Z. Liang, X. Lyu, and C. Amato, “Llm col- laboration with multi-agent reinforcement learning,” arXiv preprint arXiv:2508.04652, 2025.",
+      "title": "“Llm col- laboration with multi-agent reinforcement learning"
+    },
+    "189": {
+      "full_reference": "X. Xue, Y. Zhou, G. Zhang, Z. Zhang, Y. Li, C. Zhang, Z. Yin, P. Torr, W. Ouyang, and L. Bai, “Comas: Co-evolving multi-agent systems via interaction rewards,” arXiv preprint arXiv:2510.08529, 2025.",
+      "title": "“Comas: Co-evolving multi-agent systems via interaction rewards"
+    },
+    "190": {
+      "full_reference": "J. Guo, L. Yang, P. Chen, Q. Xiao, Y. Wang, X. Juan, J. Qiu, K. Shen, and M. Wang, “Genenv: Difficulty-aligned co-evolution between llm agents and environment simulators,” arXiv preprint arXiv:2512.19682, 2025.",
+      "title": "“Genenv: Difficulty-aligned co-evolution between llm agents and environment simulators"
+    },
+    "191": {
+      "full_reference": "S. Lu, Z. Wang, H. Zhang, Q. Wu, L. Gan, C. Zhuang, J. Gu, and T. Lin, “Don’t just fine-tune the agent, tune the environment,” arXiv preprint arXiv:2510.10197, 2025.",
+      "title": "tune the environment"
+    },
+    "192": {
+      "full_reference": "Z. Zeng, H. Ivison, Y. Wang, L. Yuan, S. S. Li, Z. Ye, S. Li, J. He, R. Zhou, T. Chen et al., “Rlve: Scaling up reinforcement learning for language models with adaptive verifiable environments,” arXiv preprint arXiv:2511.07317, 2025.",
+      "title": "“Rlve: Scaling up reinforcement learning for language models with adaptive verifiable environments"
+    },
+    "193": {
+      "full_reference": "Z. Chen, Z. Zhao, K. Zhang, B. Liu, Q. Qi, Y. Wu, T. Kalluri, S. Cao, Y. Xiong, H. Tong et al., “Scaling agent learning via experience synthesis,” arXiv preprint arXiv:2511.03773, 2025.",
+      "title": "“Scaling agent learning via experience synthesis"
+    },
+    "194": {
+      "full_reference": "J. Zhang, Y. Peng, F. Kong, C. Yang, Y. Wu, Z. Yu, J. Xiang, J. Ruan, J. Wang, M. Song et al., “Autoenv: Automated environments for measur- ing cross-environment agent learning,” arXiv preprint arXiv:2511.19304, 2025.",
+      "title": "“Autoenv: Automated environments for measur- ing cross-environment agent learning"
+    },
+    "195": {
+      "full_reference": "K. Gandhi, S. Garg, N. D. Goodman, and D. Papailiopoulos, “Endless terminals: Scaling rl environments for terminal agents,” arXiv preprint arXiv:2601.16443, 2026.",
+      "title": "“Endless terminals: Scaling rl environments for terminal agents"
+    },
+    "196": {
+      "full_reference": "Z. Stojanovski, O. Stanley, J. Sharratt, R. Jones, A. Adefioye, J. Kaddour, and A. K¨opf, “Reasoning gym: Reasoning environments for reinforce- ment learning with verifiable rewards,” arXiv preprint arXiv:2505.24760, 2025.",
+      "title": "“Reasoning gym: Reasoning environments for reinforce- ment learning with verifiable rewards"
+    },
+    "197": {
+      "full_reference": "Z. Liu, A. Sims, K. Duan, C. Chen, S. Yu, X. Zhou, H. Xu, S. Xiong, B. Liu, C. Tan et al., “Gem: A gym for agentic llms,” arXiv preprint arXiv:2510.01051, 2025.",
+      "title": "“Gem: A gym for agentic llms"
+    },
+    "198": {
+      "full_reference": "Z. Xi, Y. Ding, W. Chen, B. Hong, H. Guo, J. Wang, D. Yang, C. Liao, X. Guo, W. He, S. Gao, L. Chen, R. Zheng, Y. Zou, T. Gui, Q. Zhang, X. Qiu, X. Huang, Z. Wu, and Y.-G. Jiang, “Agentgym: Evolving large language model-based agents across diverse environments,” 2024. [Online]. Available: https://arxiv.org/abs/2406.04151",
+      "title": "Z. Xi, Y. Ding, W. Chen, B. Hong, H. Guo, J. Wang, D. Yang, C. Liao, X. Guo, W. He, S. Gao, L. Chen, R. Zheng, Y. Zou, T. Gui, Q. Zhang, X. Qiu, X. Hu"
+    },
+    "199": {
+      "full_reference": "C. Snell, J. Lee, K. Xu, and A. Kumar, “Scaling llm test-time compute optimally can be more effective than scaling model parameters,” arXiv preprint arXiv:2408.03314, 2024.",
+      "title": "“Scaling llm test-time compute optimally can be more effective than scaling model parameters"
+    },
+    "200": {
+      "full_reference": "L. Chen, J. Davis, B. Hanin, P. Bailis, I. Stoica, M. Zaharia, and J. Zou, “Are more llm calls all you need? towards the scaling properties of compound ai systems,” Advances in Neural Information Processing Systems, vol. 37, pp. 45 767–45 790, 2024.",
+      "title": "L. Chen, J. Davis, B. Hanin, P. Bailis, I. Stoica, M. Zaharia, and J. Zou, “Are more llm calls all you need? towards the scaling properties of compoun"
+    },
+    "201": {
+      "full_reference": "N. Muennighoff, Z. Yang, W. Shi, X. L. Li, L. Fei-Fei, H. Hajishirzi, L. Zettlemoyer, P. Liang, E. Cand`es, and T. B. Hashimoto, “s1: Simple test-time scaling,” in Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025, pp. 20 286–20 332.",
+      "title": "“s1: Simple test-time scaling"
+    },
+    "202": {
+      "full_reference": "T. Han, Z. Wang, C. Fang, S. Zhao, S. Ma, and Z. Chen, “Token-budget- aware llm reasoning,” in Findings of the Association for Computational Linguistics: ACL 2025, 2025, pp. 24 842–24 855.",
+      "title": "” in Findings of the Association for Computational Linguistics:"
+    },
+    "203": {
+      "full_reference": "Y. Wu, Z. Sun, S. Li, S. Welleck, and Y. Yang, “Inference scaling laws: An empirical analysis of compute-optimal inference for problem-solving with language models,” arXiv preprint arXiv:2408.00724, 2024.",
+      "title": "“Inference scaling laws: An empirical analysis of compute-optimal inference for problem-solving with language models"
+    },
+    "204": {
+      "full_reference": "J. Geiping, S. McLeish, N. Jain, J. Kirchenbauer, S. Singh, B. R. Bartoldson, B. Kailkhura, A. Bhatele, and T. Goldstein, “Scaling up test-time compute with latent reasoning: A recurrent depth approach,” arXiv preprint arXiv:2502.05171, 2025.",
+      "title": "“Scaling up test-time compute with latent reasoning: A recurrent depth approach"
+    },
+    "205": {
+      "full_reference": "Z. Yuan, H. Yuan, C. Li, G. Dong, K. Lu, C. Tan, C. Zhou, and J. Zhou, “Scaling relationship on learning mathematical reasoning with large language models,” 2023. [Online]. Available: https://arxiv.org/abs/2308.01825",
+      "title": "Z. Yuan, H. Yuan, C. Li, G. Dong, K. Lu, C. Tan, C. Zhou, and J. Zhou, “Scaling relationship on learning mathematical reasoning with large language mo"
+    },
+    "206": {
+      "full_reference": "L. Chen, J. Q. Davis, B. Hanin, P. Bailis, I. Stoica, M. Zaharia, and J. Zou, “Are more llm calls all you need? towards scaling laws of compound inference systems,” arXiv preprint arXiv:2403.02419, 2024.",
+      "title": "“Are more llm calls all you need? towards scaling laws of compound inference systems"
+    },
+    "207": {
+      "full_reference": "Y. Song, G. Wang, S. Li, and B. Y. Lin, “The good, the bad, and the greedy: Evaluation of llms should not ignore non-determinism,” in Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), 2025, pp. 4195–4206.",
+      "title": "and the greedy: Evaluation of llms should not ignore non-determinism"
+    },
+    "208": {
+      "full_reference": "Q. Zhang, Y. Wang, Y. Jiang, L. Li, C. Wu, Y. Wang, X. Jiang, L. Shang, R. Tang, F. Lyu et al., “Crowd comparative reasoning: Unlocking comprehensive evaluations for llm-as-a-judge,” arXiv preprint arXiv:2502.12501, 2025.",
+      "title": "“Crowd comparative reasoning: Unlocking comprehensive evaluations for llm-as-a-judge"
+    },
+    "209": {
+      "full_reference": "C. Li, T. Xu, and Y. Guo, “Reasoning-as-logic-units: Scaling test-time reasoning in large language models through logic unit alignment,” arXiv preprint arXiv:2502.07803, 2025.",
+      "title": "“Reasoning-as-logic-units: Scaling test-time reasoning in large language models through logic unit alignment"
+    },
+    "210": {
+      "full_reference": "K. Gandhi, D. Lee, G. Grand, M. Liu, W. Cheng, A. Sharma, and N. D. Goodman, “Stream of search (sos): Learning to search in language,” arXiv preprint arXiv:2404.03683, 2024.",
+      "title": "“Stream of search (sos): Learning to search in language"
+    },
+    "211": {
+      "full_reference": "Y. Tian, B. Peng, L. Song, L. Jin, D. Yu, L. Han, H. Mi, and D. Yu, “Toward self-improvement of llms via imagination, searching, and criticizing,” Advances in Neural Information Processing Systems, vol. 37, pp. 52 723–52 748, 2024.",
+      "title": "Y. Tian, B. Peng, L. Song, L. Jin, D. Yu, L. Han, H. Mi, and D. Yu, “Toward self-improvement of llms via imagination, searching, and criticizing,” Adv"
+    },
+    "212": {
+      "full_reference": "X. Feng, Z. Wan, M. Wen, S. M. McAleer, Y. Wen, W. Zhang, and J. Wang, “Alphazero-like tree-search can guide large language model decoding and training,” arXiv preprint arXiv:2309.17179, 2023.",
+      "title": "“Alphazero-like tree-search can guide large language model decoding and training"
+    },
+    "213": {
+      "full_reference": "A. Wang, L. Song, Y. Tian, B. Peng, D. Yu, H. Mi, J. Su, and D. Yu, “Litesearch: Efficacious tree search for llm,” arXiv preprint arXiv:2407.00320, 2024.",
+      "title": "“Litesearch: Efficacious tree search for llm"
+    },
+    "214": {
+      "full_reference": "X. Wei, Y. Dong, X. Wang, X. Zhang, Z. Zhao, D. Shen, L. Xia, and D. Yin, “Beyond react: A planner-centric framework for complex tool-augmented llm reasoning,” arXiv preprint arXiv:2511.10037, 2025.",
+      "title": "“Beyond react: A planner-centric framework for complex tool-augmented llm reasoning"
+    },
+    "215": {
+      "full_reference": "J. Pourcel, C. Colas, and P.-Y. Oudeyer, “Self-improving language models for evolutionary program synthesis: A case study on arc-agi,” arXiv preprint arXiv:2507.14172, 2025.",
+      "title": "“Self-improving language models for evolutionary program synthesis: A case study on arc-agi"
+    },
+    "216": {
+      "full_reference": "Y. Ge, S. Romeo, J. Cai, M. Sunkara, and Y. Zhang, “Samule: Self- learning agents enhanced by multi-level reflection,” in Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025, pp. 16 602–16 621.",
+      "title": "“Samule: Self- learning agents enhanced by multi-level reflection"
+    },
+    "217": {
+      "full_reference": "Y. Wang, L. Yang, Y. Tian, K. Shen, and M. Wang, “Co-evolving llm coder and unit tester via reinforcement learning,” arXiv preprint arXiv:2506.03136, 2025.",
+      "title": "“Co-evolving llm coder and unit tester via reinforcement learning"
+    },
+    "218": {
+      "full_reference": "S. Sundaram, J. Quan, A. Kwiatkowski, K. Ahuja, Y. Ollivier, and J. Kempe, “Teaching models to teach themselves: Reasoning at the edge of learnability,” arXiv preprint arXiv:2601.18778, 2026.",
+      "title": "“Teaching models to teach themselves: Reasoning at the edge of learnability"
+    },
+    "219": {
+      "full_reference": "T. Hubert, R. Mehta, L. Sartran, M. Z. Horv´ath, G. ˇZuˇzi´c, E. Wieser, A. Huang, J. Schrittwieser, Y. Schroecker, H. Masoom et al., “Olympiad- level formal mathematical reasoning with reinforcement learning,” Nature, pp. 1–3, 2025.",
+      "title": "T. Hubert, R. Mehta, L. Sartran, M. Z. Horv´ath, G. ˇZuˇzi´c, E. Wieser, A. Huang, J. Schrittwieser, Y. Schroecker, H. Masoom et al., “Olympiad- level"
+    },
+    "220": {
+      "full_reference": "S. Fan, X. Ye, and Y. Lin, “Darc: Decoupled asymmetric reasoning curriculum for llm evolution,” arXiv preprint arXiv:2601.13761, 2026.",
+      "title": "“Darc: Decoupled asymmetric reasoning curriculum for llm evolution"
+    },
+    "221": {
+      "full_reference": "M. Bagatella, M. Albaba, J. H¨ubotter, G. Martius, and A. Krause, “Test- time offline reinforcement learning on goal-related experience,” arXiv preprint arXiv:2507.18809, 2025.",
+      "title": "“Test- time offline reinforcement learning on goal-related experience"
+    },
+    "222": {
+      "full_reference": "S. Yuan, Z. Chen, Z. Xi, J. Ye, Z. Du, and J. Chen, “Agent-r: Training language model agents to reflect via iterative self-training,” arXiv preprint arXiv:2501.11425, 2025.",
+      "title": "“Agent-r: Training language model agents to reflect via iterative self-training"
+    },
+    "223": {
+      "full_reference": "W. Sun, X. Cheng, J. Fan, Y. Xu, X. Yu, S. He, J. Zhao, and K. Liu, “Towards agentic self-learning llms in search environment,” arXiv preprint arXiv:2510.14253, 2025. 24",
+      "title": "“Towards agentic self-learning llms in search environment"
+    },
+    "224": {
+      "full_reference": "Y. Chen, Y. Wang, S. Zhu, H. Yu, T. Feng, M. Zhang, M. Patwary, and J. You, “Multi-agent evolve: Llm self-improve through co-evolution,” arXiv preprint arXiv:2510.23595, 2025.",
+      "title": "“Multi-agent evolve: Llm self-improve through co-evolution"
+    },
+    "225": {
+      "full_reference": "C. Zhou, T. Xu, J. Lin, and D. Ge, “Steporlm: A self-evolving framework with generative process supervision for operations research language models,” arXiv preprint arXiv:2509.22558, 2025.",
+      "title": "“Steporlm: A self-evolving framework with generative process supervision for operations research language models"
+    },
+    "226": {
+      "full_reference": "Z. Yue, K. Upasani, X. Yang, S. Ge, S. Nie, Y. Mao, Z. Liu, and D. Wang, “Dr. zero: Self-evolving search agents without training data,” arXiv preprint arXiv:2601.07055, 2026.",
+      "title": "“Dr. zero: Self-evolving search agents without training data"
+    },
+    "227": {
+      "full_reference": "Y. Sun, Y. Liang, Z. Zhang, and J. Teng, “Theoretical modeling of llm self-improvement training dynamics through solver-verifier gap,” arXiv preprint arXiv:2507.00075, 2025.",
+      "title": "“Theoretical modeling of llm self-improvement training dynamics through solver-verifier gap"
+    },
+    "228": {
+      "full_reference": "H. Lu, Y. Wen, P. Cheng, R. Ding, J. Guo, H. Xu, C. Wang, H. Chen, X. Jiang, and G. Jiang, “Search self-play: Pushing the frontier of agent capability without supervision,” arXiv preprint arXiv:2510.18821, 2025.",
+      "title": "“Search self-play: Pushing the frontier of agent capability without supervision"
+    },
+    "229": {
+      "full_reference": "Y. Jin, K. Xu, H. Li, X. Han, Y. Zhou, C. Li, and J. Bai, “Reveal: Self-evolving code agents via iterative generation-verification,” arXiv preprint arXiv:2506.11442, 2025.",
+      "title": "“Reveal: Self-evolving code agents via iterative generation-verification"
+    },
+    "230": {
+      "full_reference": "Q. Zhang, Z. Xiang, Y. Xiao, L. Wang, J. Li, X. Wang, and J. Su, “Faithfulrag: Fact-level conflict modeling for context-faithful retrieval- augmented generation,” arXiv preprint arXiv:2506.08938, 2025.",
+      "title": "“Faithfulrag: Fact-level conflict modeling for context-faithful retrieval- augmented generation"
+    },
+    "231": {
+      "full_reference": "L. Zhuang, S. Chen, Y. Xiao, H. Zhou, Y. Zhang, H. Chen, Q. Zhang, and X. Huang, “Linearrag: Linear graph retrieval augmented generation on large-scale corpora,” arXiv preprint arXiv:2510.10114, 2025.",
+      "title": "“Linearrag: Linear graph retrieval augmented generation on large-scale corpora"
+    },
+    "232": {
+      "full_reference": "Z. Jiang, F. F. Xu, L. Gao, Z. Sun, Q. Liu, J. Dwivedi-Yu, Y. Yang, J. Callan, and G. Neubig, “Active retrieval augmented generation,” in Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, 2023, pp. 7969–7992.",
+      "title": "“Active retrieval augmented generation"
+    },
+    "233": {
+      "full_reference": "Q. Zhang, S. Chen, Y. Bei, Z. Yuan, H. Zhou, Z. Hong, H. Chen, Y. Xiao, C. Zhou, J. Dong et al., “A survey of graph retrieval-augmented generation for customized large language models,” arXiv preprint arXiv:2501.13958, 2025.",
+      "title": "“A survey of graph retrieval-augmented generation for customized large language models"
+    },
+    "234": {
+      "full_reference": "G. Dong, J. Jin, X. Li, Y. Zhu, Z. Dou, and J.-R. Wen, “Rag-critic: Leveraging automated critic-guided agentic workflow for retrieval augmented generation,” in Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2025, pp. 3551–3578.",
+      "title": "“Rag-critic: Leveraging automated critic-guided agentic workflow for retrieval augmented generation"
+    },
+    "235": {
+      "full_reference": "H. Song, J. Jiang, Y. Min, J. Chen, Z. Chen, W. X. Zhao, L. Fang, and J.-R. Wen, “R1-searcher: Incentivizing the search capability in llms via reinforcement learning,” arXiv preprint arXiv:2503.05592, 2025.",
+      "title": "“R1-searcher: Incentivizing the search capability in llms via reinforcement learning"
+    },
+    "236": {
+      "full_reference": "S. Chen, C. Zhou, Z. Yuan, Q. Zhang, Z. Cui, H. Chen, Y. Xiao, J. Cao, and X. Huang, “You don’t need pre-built graphs for rag: Retrieval augmented generation with adaptive reasoning structures,” arXiv preprint arXiv:2508.06105, 2025.",
+      "title": "“You don’t need pre-built graphs for rag: Retrieval augmented generation with adaptive reasoning structures"
+    },
+    "237": {
+      "full_reference": "S. Alzubi, C. Brooks, P. Chiniya, E. Contente, C. von Gerlach, L. Irwin, Y. Jiang, A. Kaz, W. Nguyen, S. Oh et al., “Open deep search: Democratizing search with open-source reasoning agents,” arXiv preprint arXiv:2503.20201, 2025.",
+      "title": "“Open deep search: Democratizing search with open-source reasoning agents"
+    },
+    "238": {
+      "full_reference": "H. Wan, C. Yang, J. Yu, M. Tu, J. Lu, D. Yu, J. Cao, B. Gao, J. Xie, A. Wang et al., “Deepresearch arena: The first exam of llms’ research abilities via seminar-grounded tasks,” arXiv preprint arXiv:2509.01396, 2025.",
+      "title": "“Deepresearch arena: The first exam of llms’ research abilities via seminar-grounded tasks"
+    },
+    "239": {
+      "full_reference": "L. Patel, N. Arabzadeh, H. Gupta, A. Sundar, I. Stoica, M. Zaharia, and C. Guestrin, “Deepscholar-bench: A live benchmark and auto- mated evaluation for generative research synthesis,” arXiv preprint arXiv:2508.20033, 2025.",
+      "title": "“Deepscholar-bench: A live benchmark and auto- mated evaluation for generative research synthesis"
+    },
+    "240": {
+      "full_reference": "Y. Huang, Y. Chen, H. Zhang, K. Li, H. Zhou, M. Fang, L. Yang, X. Li, L. Shang, S. Xu et al., “Deep research agents: A systematic examination and roadmap,” arXiv preprint arXiv:2506.18096, 2025.",
+      "title": "“Deep research agents: A systematic examination and roadmap"
+    },
+    "241": {
+      "full_reference": "B. Romera-Paredes, M. Barekatain, A. Novikov, M. Balog, M. P. Kumar, E. Dupont, F. J. Ruiz, J. S. Ellenberg, P. Wang, O. Fawzi et al., “Mathematical discoveries from program search with large language models,” Nature, vol. 625, no. 7995, pp. 468–475, 2024.",
+      "title": "B. Romera-Paredes, M. Barekatain, A. Novikov, M. Balog, M. P. Kumar, E. Dupont, F. J. Ruiz, J. S. Ellenberg, P. Wang, O. Fawzi et al., “Mathematical d"
+    },
+    "242": {
+      "full_reference": "Z. Xiang, C. Wu, Q. Zhang, S. Chen, Z. Hong, X. Huang, and J. Su, “When to use graphs in rag: A comprehensive analysis for graph retrieval- augmented generation,” arXiv preprint arXiv:2506.05690, 2025.",
+      "title": "“When to use graphs in rag: A comprehensive analysis for graph retrieval- augmented generation"
+    },
+    "243": {
+      "full_reference": "J. Jin, Y. Zhang, Y. Xu, H. Qian, Y. Zhu, and Z. Dou, “Finsight: Towards real-world financial deep research,” arXiv preprint arXiv:2510.16844, 2025.",
+      "title": "“Finsight: Towards real-world financial deep research"
+    },
+    "244": {
+      "full_reference": "T. Wei, N. Sachdeva, B. Coleman, Z. He, Y. Bei, X. Ning, M. Ai, Y. Li, J. He, E. H. Chi et al., “Evo-memory: Benchmarking llm agent test-time learning with self-evolving memory,” arXiv preprint arXiv:2511.20857, 2025.",
+      "title": "“Evo-memory: Benchmarking llm agent test-time learning with self-evolving memory"
+    },
+    "245": {
+      "full_reference": "J. Wang, Z. Guo, W. Ma, and M. Zhang, “How far can llms improve from experience? measuring test-time learning ability in llms with human comparison,” in Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, 2025, pp. 25 688–25 702.",
+      "title": "“How far can llms improve from experience? measuring test-time learning ability in llms with human comparison"
+    },
+    "246": {
+      "full_reference": "E. Feng, W. Zhou, Z. Liu, L. Chen, Y. Dong, C. Zhang, Y. Zhao, D. Du, Z. Hua, Y. Xia et al., “Get experience from practice: Llm agents with record & replay,” arXiv preprint arXiv:2505.17716, 2025.",
+      "title": "“Get experience from practice: Llm agents with record & replay"
+    },
+    "247": {
+      "full_reference": "S. Xia, Z. Xu, J. Chai, W. Fan, Y. Song, X. Wang, G. Yin, W. Lin, H. Zhang, and J. Wang, “From experience to strategy: Empowering llm agents with trainable graph memory,” arXiv preprint arXiv:2511.07800, 2025.",
+      "title": "“From experience to strategy: Empowering llm agents with trainable graph memory"
+    },
+    "248": {
+      "full_reference": "G. Zhang, S. Zhu, A. Wei, Z. Song, A. Nie, Z. Jia, N. Vijayku- mar, Y. Wang, and K. Olukotun, “Accelopt: A self-improving llm agentic system for ai accelerator kernel optimization,” arXiv preprint arXiv:2511.15915, 2025.",
+      "title": "“Accelopt: A self-improving llm agentic system for ai accelerator kernel optimization"
+    },
+    "249": {
+      "full_reference": "W. Zhang, X. Zhang, H. Yu, S. Nie, B. Wu, J. Yue, T. Liu, and Y. Li, “Expseek: Self-triggered experience seeking for web agents,” arXiv preprint arXiv:2601.08605, 2026.",
+      "title": "“Expseek: Self-triggered experience seeking for web agents"
+    },
+    "250": {
+      "full_reference": "X. Huang, J. Chen, Y. Fei, Z. Li, P. Schwaller, and G. Ceder, “Cascade: Cumulative agentic skill creation through autonomous development and evolution,” arXiv preprint arXiv:2512.23880, 2025.",
+      "title": "“Cascade: Cumulative agentic skill creation through autonomous development and evolution"
+    },
+    "251": {
+      "full_reference": "M. T. Hosain, S. Rahman, M. K. Morol, and M. R. Parvez, “Xolver: Multi-agent reasoning with holistic experience learning just like an olympiad team,” arXiv preprint arXiv:2506.14234, 2025.",
+      "title": "“Xolver: Multi-agent reasoning with holistic experience learning just like an olympiad team"
+    },
+    "252": {
+      "full_reference": "H. Shi, X. Yuan, and B. Liu, “Evolving programmatic skill networks,” arXiv preprint arXiv:2601.03509, 2026.",
+      "title": "“Evolving programmatic skill networks"
+    },
+    "253": {
+      "full_reference": "H. Ye, X. He, V. Arak, H. Dong, and G. Song, “Meta context engineering via agentic skill evolution,” arXiv preprint arXiv:2601.21557, 2026.",
+      "title": "“Meta context engineering via agentic skill evolution"
+    },
+    "254": {
+      "full_reference": "H. Yu, F. Zhu, G.-S. Xie, and L. Shao, “Self-consolidation for self- evolving agents,” arXiv preprint arXiv:2602.01966, 2026.",
+      "title": "“Self-consolidation for self- evolving agents"
+    },
+    "255": {
+      "full_reference": "J. Qiu, X. Qi, H. Wang, X. Juan, Y. Wang, Z. Zhao, J. Geng, J. Guo, P. Li, J. Shi et al., “Alita-g: Self-evolving generative agent for agent generation,” arXiv preprint arXiv:2510.23601, 2025.",
+      "title": "“Alita-g: Self-evolving generative agent for agent generation"
+    },
+    "256": {
+      "full_reference": "S. Zhang, C. Yuan, R. Guo, X. Yu, R. Xu, Z. Chen, Z. Li, Z. Yang, S. Guan, Z. Tang et al., “Evofsm: Controllable self-evolution for deep research with finite state machines,” arXiv preprint arXiv:2601.09465, 2026.",
+      "title": "“Evofsm: Controllable self-evolution for deep research with finite state machines"
+    },
+    "257": {
+      "full_reference": "J. Tan, Z. Dou, Y. Yu, J. Cheng, Q. Ju, J. Xie, and J.-R. Wen, “Hiersearch: A hierarchical enterprise deep search framework integrating local and web searches,” arXiv preprint arXiv:2508.08088, 2025.",
+      "title": "“Hiersearch: A hierarchical enterprise deep search framework integrating local and web searches"
+    },
+    "258": {
+      "full_reference": "S. Zhang, J. Wang, R. Zhou, J. Liao, Y. Feng, W. Zhang, Y. Wen, Z. Li, F. Xiong, Y. Qi et al., “Memrl: Self-evolving agents via runtime reinforcement learning on episodic memory,” arXiv preprint arXiv:2601.03192, 2026.",
+      "title": "“Memrl: Self-evolving agents via runtime reinforcement learning on episodic memory"
+    },
+    "259": {
+      "full_reference": "Y. Chen, G. Dong, and Z. Dou, “Toward effective tool-integrated reasoning via self-evolved preference learning,” arXiv preprint arXiv:2509.23285, 2025.",
+      "title": "“Toward effective tool-integrated reasoning via self-evolved preference learning"
+    },
+    "260": {
+      "full_reference": "Y. Du, B. Liu, V. Moens, Z. Liu, Z. Ren, J. Wang, X. Chen, and H. Zhang, “Learning correlated communication topology in multi- agent reinforcement learning,” in Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems, 2021, pp. 456–464.",
+      "title": "“Learning correlated communication topology in multi- agent reinforcement learning"
+    },
+    "261": {
+      "full_reference": "X. Guo, J. Kuang, L. Pan, Y. Li, Y. Li, H.-T. Zheng, Y. Shen, D. Yin, and X. Sun, “Evoconfig: Self-evolving multi-agent systems for efficient autonomous environment configuration,” arXiv preprint arXiv:2601.16489, 2026.",
+      "title": "“Evoconfig: Self-evolving multi-agent systems for efficient autonomous environment configuration"
+    },
+    "262": {
+      "full_reference": "Y. Zhao, L. Hu, Y. Wang, M. Hou, H. Zhang, K. Ding, and J. Zhao, “Stronger-mas: Multi-agent reinforcement learning for collaborative llms,” arXiv preprint arXiv:2510.11062, 2025.",
+      "title": "“Stronger-mas: Multi-agent reinforcement learning for collaborative llms"
+    },
+    "263": {
+      "full_reference": "Z. Weng, A. Antoniades, D. Nathani, Z. Zhang, X. Pu, and X. E. Wang, “Group-evolving agents: Open-ended self-improvement via experience sharing,” arXiv preprint arXiv:2602.04837, 2026.",
+      "title": "“Group-evolving agents: Open-ended self-improvement via experience sharing"
+    },
+    "264": {
+      "full_reference": "C. Lu, C. Lu, R. T. Lange, J. Foerster, J. Clune, and D. Ha, “The ai scientist: Towards fully automated open-ended scientific discovery,” arXiv preprint arXiv:2408.06292, 2024.",
+      "title": "“The ai scientist: Towards fully automated open-ended scientific discovery"
+    },
+    "265": {
+      "full_reference": "A. M. Bran, S. Cox, O. Schilter, C. Baldassari, A. D. White, and P. Schwaller, “Chemcrow: Augmenting large-language models with chemistry tools,” arXiv preprint arXiv:2304.05376, 2023.",
+      "title": "“Chemcrow: Augmenting large-language models with chemistry tools"
+    },
+    "266": {
+      "full_reference": "J. Gottweis, W.-H. Weng, A. Daryin, T. Tu, A. Palepu, P. Sirkovic, A. Myaskovsky, F. Weissenberger, K. Rong, R. Tanno et al., “Towards an ai co-scientist,” arXiv preprint arXiv:2502.18864, 2025.",
+      "title": "“Towards an ai co-scientist"
+    },
+    "267": {
+      "full_reference": "A. Merchant, S. Batzner, S. S. Schoenholz, M. Aykol, G. Cheon, and E. D. Cubuk, “Scaling deep learning for materials discovery,” Nature, 2023.",
+      "title": "A. Merchant, S. Batzner, S. S. Schoenholz, M. Aykol, G. Cheon, and E. D. Cubuk, “Scaling deep learning for materials discovery,” Nature, 2023."
+    },
+    "268": {
+      "full_reference": "N. J. Szymanski, B. Rendy, Y. Fei, R. E. Kumar, T. He, D. Milsted, M. J. McDermott, M. Gallant, E. D. Cubuk, A. Merchant et al., “An autonomous laboratory for the accelerated synthesis of novel materials,” Nature, vol. 624, no. 7990, pp. 86–91, 2023.",
+      "title": "N. J. Szymanski, B. Rendy, Y. Fei, R. E. Kumar, T. He, D. Milsted, M. J. McDermott, M. Gallant, E. D. Cubuk, A. Merchant et al., “An autonomous labora"
+    },
+    "269": {
+      "full_reference": "Z. Zhang, Z. Ren, C.-W. Hsu, W. Chen, Z.-W. Hong, C.-F. Lee, A. Penn, H. Xu, D. J. Zheng, S. Miao et al., “A multimodal robotic platform 25 for multi-element electrocatalyst discovery,” Nature, vol. 647, no. 8089, pp. 390–396, 2025.",
+      "title": "Z. Zhang, Z. Ren, C.-W. Hsu, W. Chen, Z.-W. Hong, C.-F. Lee, A. Penn, H. Xu, D. J. Zheng, S. Miao et al., “A multimodal robotic platform 25 for multi-"
+    },
+    "270": {
+      "full_reference": "AnalemmaAI. Fars. [Online]. Available: https://analemma.ai/blog/ introducing-fars/",
+      "title": "AnalemmaAI. Fars. [Online]. Available: https://analemma.ai/blog/ introducing-fars/"
+    },
+    "271": {
+      "full_reference": "J. Yang, C. E. Jimenez, A. Wettig, K. Lieret, S. Yao, K. Narasimhan, and O. Press, “Swe-agent: Agent-computer interfaces enable automated software engineering,” Advances in Neural Information Processing Systems, vol. 37, pp. 50 528–50 652, 2024.",
+      "title": "J. Yang, C. E. Jimenez, A. Wettig, K. Lieret, S. Yao, K. Narasimhan, and O. Press, “Swe-agent: Agent-computer interfaces enable automated software eng"
+    },
+    "272": {
+      "full_reference": "Anthropic. Claude code. [Online]. Available: https://claude.com/product/ claude-code",
+      "title": "Anthropic. Claude code. [Online]. Available: https://claude.com/product/ claude-code"
+    },
+    "273": {
+      "full_reference": "Manus. Manus: Hands on ai. [Online]. Available: https://manus.im/",
+      "title": "Manus. Manus: Hands on ai. [Online]. Available: https://manus.im/"
+    },
+    "274": {
+      "full_reference": "openclaw. openclaw. [Online]. Available: https://openclaw.ai/",
+      "title": "openclaw. openclaw. [Online]. Available: https://openclaw.ai/"
+    },
+    "275": {
+      "full_reference": "C. Labs. Devin ai: The ai software engineer. [Online]. Available: https://devin.ai/",
+      "title": "C. Labs. Devin ai: The ai software engineer. [Online]. Available: https://devin.ai/"
+    },
+    "276": {
+      "full_reference": "Cursor. Cursor. [Online]. Available: https://cursor.com/cn/agents",
+      "title": "Cursor. Cursor. [Online]. Available: https://cursor.com/cn/agents"
+    },
+    "277": {
+      "full_reference": "X. Zhu, Y. Chen, H. Tian, C. Tao, W. Su, C. Yang, G. Huang, B. Li, L. Lu, X. Wang et al., “Ghost in the minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory,” arXiv preprint arXiv:2305.17144, 2023.",
+      "title": "“Ghost in the minecraft: Generally capable agents for open-world environments via large language models with text-based knowledge and memory"
+    },
+    "278": {
+      "full_reference": "W. Tan, W. Zhang, X. Xu, H. Xia, Z. Ding, B. Li, B. Zhou, J. Yue, J. Jiang, Y. Li et al., “Cradle: Empowering foundation agents towards general computer control,” arXiv preprint arXiv:2403.03186, 2024.",
+      "title": "“Cradle: Empowering foundation agents towards general computer control"
+    },
+    "279": {
+      "full_reference": "A. AL, A. Ahn, N. Becker, S. Carroll, N. Christie, M. Cortes, A. Demirci, M. Du, F. Li, S. Luo et al., “Project sid: Many-agent simulations toward ai civilization,” arXiv preprint arXiv:2411.00114, 2024.",
+      "title": "“Project sid: Many-agent simulations toward ai civilization"
+    },
+    "280": {
+      "full_reference": "J. S. Park, J. O’Brien, C. J. Cai, M. R. Morris, P. Liang, and M. S. Bernstein, “Generative agents: Interactive simulacra of human behavior,” in Proceedings of the 36th annual acm symposium on user interface software and technology, 2023, pp. 1–22.",
+      "title": "“Generative agents: Interactive simulacra of human behavior"
+    },
+    "281": {
+      "full_reference": "A. Bolton, A. Lerchner, A. Cordell, A. Moufarek, A. Bolt, A. Lampinen, A. Mitenkova, A. O. Hallingstad, B. Vujatovic, B. Li et al., “Sima 2: A generalist embodied agent for virtual worlds,” arXiv preprint arXiv:2512.04797, 2025.",
+      "title": "“Sima 2: A generalist embodied agent for virtual worlds"
+    },
+    "282": {
+      "full_reference": "J. Bruce, M. D. Dennis, A. Edwards, J. Parker-Holder, Y. Shi, E. Hughes, M. Lai, A. Mavalankar, R. Steigerwald, C. Apps et al., “Genie: Generative interactive environments,” in Forty-first International Conference on Machine Learning, 2024.",
+      "title": "J. Bruce, M. D. Dennis, A. Edwards, J. Parker-Holder, Y. Shi, E. Hughes, M. Lai, A. Mavalankar, R. Steigerwald, C. Apps et al., “Genie: Generative int"
+    },
+    "283": {
+      "full_reference": "T. Schick, J. Dwivedi-Yu, R. Dess`ı, R. Raileanu, M. Lomeli, E. Hambro, L. Zettlemoyer, N. Cancedda, and T. Scialom, “Toolformer: Language models can teach themselves to use tools,” Advances in Neural Information Processing Systems, vol. 36, pp. 68 539–68 551, 2023.",
+      "title": "T. Schick, J. Dwivedi-Yu, R. Dess`ı, R. Raileanu, M. Lomeli, E. Hambro, L. Zettlemoyer, N. Cancedda, and T. Scialom, “Toolformer: Language models can "
+    },
+    "284": {
+      "full_reference": "H. Wang, T. Fu, Y. Du, W. Gao, K. Huang, Z. Liu, P. Chandak, S. Liu, P. Van Katwyk, A. Deac et al., “Scientific discovery in the age of artificial intelligence,” Nature, vol. 620, no. 7972, pp. 47–60, 2023.",
+      "title": "H. Wang, T. Fu, Y. Du, W. Gao, K. Huang, Z. Liu, P. Chandak, S. Liu, P. Van Katwyk, A. Deac et al., “Scientific discovery in the age of artificial int"
+    },
+    "285": {
+      "full_reference": "Z. Luo, Z. Yang, Z. Xu, W. Yang, and X. Du, “Llm4sr: A survey on large language models for scientific research,” arXiv preprint arXiv:2501.04306, 2025.",
+      "title": "“Llm4sr: A survey on large language models for scientific research"
+    },
+    "286": {
+      "full_reference": "Y. Zhang, X. Chen, B. Jin, S. Wang, S. Ji, W. Wang, and J. Han, “A comprehensive survey of scientific large language models and their applications in scientific discovery,” arXiv preprint arXiv:2406.10833, 2024.",
+      "title": "“A comprehensive survey of scientific large language models and their applications in scientific discovery"
+    },
+    "287": {
+      "full_reference": "I. Shumailov, Z. Shumaylov, Y. Zhao, N. Papernot, R. Anderson, and Y. Gal, “Ai models collapse when trained on recursively generated data,” Nature, vol. 631, no. 8022, pp. 755–759, 2024.",
+      "title": "I. Shumailov, Z. Shumaylov, Y. Zhao, N. Papernot, R. Anderson, and Y. Gal, “Ai models collapse when trained on recursively generated data,” Nature, vo"
+    },
+    "288": {
+      "full_reference": "Z. Wang, C. Xu, B. Liu, Y. Wang, S. Han, Z. Yao, H. Yao, and Y. He, “Agent world model: Infinity synthetic environments for agentic reinforcement learning,” 2026. [Online]. Available: https://arxiv.org/abs/2602.10090",
+      "title": "Z. Wang, C. Xu, B. Liu, Y. Wang, S. Han, Z. Yao, H. Yao, and Y. He, “Agent world model: Infinity synthetic environments for agentic reinforcement lear"
+    },
+    "289": {
+      "full_reference": "Z. Li, Y. Chang, Y. Zhou, X. Wu, Z. Liang, Y. Y. Sung, and J. L. Boyd-Graber, “Semantically-aware rewards for open-ended r1 training in free-form generation,” 2025. [Online]. Available: https://arxiv.org/abs/2506.15068",
+      "title": "Z. Li, Y. Chang, Y. Zhou, X. Wu, Z. Liang, Y. Y. Sung, and J. L. Boyd-Graber, “Semantically-aware rewards for open-ended r1 training in free-form gene"
+    },
+    "290": {
+      "full_reference": "Z. Li, I. Mondal, H. Nghiem, Y. Liang, and J. L. Boyd- Graber, “PEDANTS: Cheap but effective and interpretable answer equivalence,” in Findings of the Association for Computational Linguistics: EMNLP 2024, Y. Al-Onaizan, M. Bansal, and Y.-N. Chen, Eds. Miami, Florida, USA: Association for Computational Linguistics, Nov. 2024, pp. 9373–9398. [Online]. Available: https: //aclanthology.org/2024.findings-emnlp.548/",
+      "title": "” in Findings of the Association for Computational Linguistics:"
+    },
+    "291": {
+      "full_reference": "E. Aljalbout, J. Xing, A. Romero, I. Akinola, C. R. Garrett, E. Heiden, A. Gupta, T. Hermans, Y. Narang, D. Fox, D. Scaramuzza, and F. Ramos, “The reality gap in robotics: Challenges, solutions, and best practices,” 2025. [Online]. Available: https://arxiv.org/abs/2510.20808",
+      "title": "E. Aljalbout, J. Xing, A. Romero, I. Akinola, C. R. Garrett, E. Heiden, A. Gupta, T. Hermans, Y. Narang, D. Fox, D. Scaramuzza, and F. Ramos, “The rea"
+    },
+    "292": {
+      "full_reference": "Z. Li, X. Wu, G. Shi, Y. Qin, H. Du, F. Liu, T. Zhou, D. Manocha, and J. L. Boyd-Graber, “Videohallu: Evaluating and mitigating multi-modal hallucinations on synthetic video understanding,” 2025. [Online]. Available: https://arxiv.org/abs/2505.01481",
+      "title": "Z. Li, X. Wu, G. Shi, Y. Qin, H. Du, F. Liu, T. Zhou, D. Manocha, and J. L. Boyd-Graber, “Videohallu: Evaluating and mitigating multi-modal hallucinat"
+    },
+    "293": {
+      "full_reference": "E. Salvato, G. Fenu, E. Medvet, and F. A. Pellegrino, “Crossing the reality gap: A survey on sim-to-real transferability of robot controllers in reinforcement learning,” IEEE Access, vol. 9, pp. 153 171–153 187, 2021.",
+      "title": "“Crossing the reality gap: A survey on sim-to-real transferability of robot controllers in reinforcement learning"
+    },
+    "294": {
+      "full_reference": "OpenAI, M. Andrychowicz, B. Baker, M. Chociej, R. Jozefowicz, B. McGrew, J. Pachocki, A. Petron, M. Plappert, G. Powell, A. Ray, J. Schneider, S. Sidor, J. Tobin, P. Welinder, L. Weng, and W. Zaremba, “Learning dexterous in-hand manipulation,” 2019. [Online]. Available: https://arxiv.org/abs/1808.00177",
+      "title": "OpenAI, M. Andrychowicz, B. Baker, M. Chociej, R. Jozefowicz, B. McGrew, J. Pachocki, A. Petron, M. Plappert, G. Powell, A. Ray, J. Schneider, S. Sido"
+    },
+    "295": {
+      "full_reference": "Y. Wang, X. Ma, G. Zhang, Y. Ni, A. Chandra, S. Guo, W. Ren, A. Arulraj, X. He, Z. Jiang et al., “Mmlu-pro: A more robust and challenging multi-task language understanding benchmark,” Advances in Neural Information Processing Systems, vol. 37, pp. 95 266–95 290, 2024.",
+      "title": "Y. Wang, X. Ma, G. Zhang, Y. Ni, A. Chandra, S. Guo, W. Ren, A. Arulraj, X. He, Z. Jiang et al., “Mmlu-pro: A more robust and challenging multi-task l"
+    },
+    "296": {
+      "full_reference": "Z. Yang, P. Qi, S. Zhang, Y. Bengio, W. Cohen, R. Salakhutdinov, and C. D. Manning, “Hotpotqa: A dataset for diverse, explainable multi-hop question answering,” in Proceedings of the 2018 conference on empirical methods in natural language processing, 2018, pp. 2369–2380.",
+      "title": "explainable multi-hop question answering"
+    },
+    "297": {
+      "full_reference": "D. Hendrycks, C. Burns, S. Basart, A. Zou, M. Mazeika, D. Song, and J. Steinhardt, “Measuring massive multitask language understanding,” arXiv preprint arXiv:2009.03300, 2020.",
+      "title": "“Measuring massive multitask language understanding"
+    },
+    "298": {
+      "full_reference": "H. Trivedi, N. Balasubramanian, T. Khot, and A. Sabharwal, “Musique: Multihop questions via single-hop question composition,” Transactions of the Association for Computational Linguistics, vol. 10, pp. 539–554, 2022.",
+      "title": "“Musique: Multihop questions via single-hop question composition"
+    },
+    "299": {
+      "full_reference": "T. Kwiatkowski, J. Palomaki, O. Redfield, M. Collins, A. Parikh, C. Alberti, D. Epstein, I. Polosukhin, J. Devlin, K. Lee et al., “Natural questions: a benchmark for question answering research,” Transactions of the Association for Computational Linguistics, vol. 7, pp. 453–466, 2019.",
+      "title": "“Natural questions: a benchmark for question answering research"
+    },
+    "300": {
+      "full_reference": "M. Joshi, E. Choi, D. S. Weld, and L. Zettlemoyer, “Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension,” arXiv preprint arXiv:1705.03551, 2017.",
+      "title": "“Triviaqa: A large scale distantly supervised challenge dataset for reading comprehension"
+    },
+    "301": {
+      "full_reference": "A. Mallen, A. Asai, V. Zhong, R. Das, D. Khashabi, and H. Hajishirzi, “When not to trust language models: Investigating effectiveness of parametric and non-parametric memories,” in Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2023, pp. 9802–9822.",
+      "title": "“When not to trust language models: Investigating effectiveness of parametric and non-parametric memories"
+    },
+    "302": {
+      "full_reference": "X. Ho, A.-K. D. Nguyen, S. Sugawara, and A. Aizawa, “Constructing a multi-hop qa dataset for comprehensive evaluation of reasoning steps,” arXiv preprint arXiv:2011.01060, 2020.",
+      "title": "“Constructing a multi-hop qa dataset for comprehensive evaluation of reasoning steps"
+    },
+    "303": {
+      "full_reference": "M. Suzgun, N. Scales, N. Sch¨arli, S. Gehrmann, Y. Tay, H. W. Chung, A. Chowdhery, Q. Le, E. Chi, D. Zhou et al., “Challenging big-bench tasks and whether chain-of-thought can solve them,” in Findings of the Association for Computational Linguistics: ACL 2023, 2023, pp. 13 003–13 051.",
+      "title": "” in Findings of the Association for Computational Linguistics:"
+    },
+    "304": {
+      "full_reference": "W. Zhong, R. Cui, Y. Guo, Y. Liang, S. Lu, Y. Wang, A. Saied, W. Chen, and N. Duan, “Agieval: A human-centric benchmark for evaluating foundation models,” in Findings of the Association for Computational Linguistics: NAACL 2024, 2024, pp. 2299–2314.",
+      "title": "” in Findings of the Association for Computational Linguistics: NA"
+    },
+    "305": {
+      "full_reference": "F. Chollet, “On the measure of intelligence,” arXiv preprint arXiv:1911.01547, 2019.",
+      "title": "“On the measure of intelligence"
+    },
+    "306": {
+      "full_reference": "A. Prize. Arc-agi: The general intelligence benchmark. [Online]. Available: https://arcprize.org/arc-agi",
+      "title": "A. Prize. Arc-agi: The general intelligence benchmark. [Online]. Available: https://arcprize.org/arc-agi"
+    },
+    "307": {
+      "full_reference": "T. Koˇcisk`y, J. Schwarz, P. Blunsom, C. Dyer, K. M. Hermann, G. Melis, and E. Grefenstette, “The narrativeqa reading comprehension challenge,” Transactions of the Association for Computational Linguistics, vol. 6, pp. 317–328, 2018.",
+      "title": "“The narrativeqa reading comprehension challenge"
+    },
+    "308": {
+      "full_reference": "Y. Bai, X. Lv, J. Zhang, H. Lyu, J. Tang, Z. Huang, Z. Du, X. Liu, A. Zeng, L. Hou et al., “Longbench: A bilingual, multitask benchmark for long context understanding,” in Proceedings of the 62nd annual meeting of the association for computational linguistics (volume 1: Long papers), 2024, pp. 3119–3137.",
+      "title": "multitask benchmark for long context understanding"
+    },
+    "309": {
+      "full_reference": "L. Phan, A. Gatti, Z. Han, N. Li, J. Hu, H. Zhang, C. B. C. Zhang, M. Shaaban, J. Ling, S. Shi et al., “Humanity’s last exam,” arXiv preprint arXiv:2501.14249, 2025.",
+      "title": "“Humanity’s last exam"
+    },
+    "310": {
+      "full_reference": "D. Rein, B. L. Hou, A. C. Stickland, J. Petty, R. Y. Pang, J. Dirani, J. Michael, and S. R. Bowman, “Gpqa: A graduate-level google-proof q&a benchmark,” in First Conference on Language Modeling, 2024.",
+      "title": "D. Rein, B. L. Hou, A. C. Stickland, J. Petty, R. Y. Pang, J. Dirani, J. Michael, and S. R. Bowman, “Gpqa: A graduate-level google-proof q&a benchmark"
+    },
+    "311": {
+      "full_reference": "X. Du, Y. Yao, K. Ma, B. Wang, T. Zheng, K. Zhu, M. Liu, Y. Liang, X. Jin, Z. Wei et al., “Supergpqa: Scaling llm evaluation across 285 graduate disciplines,” arXiv preprint arXiv:2502.14739, 2025.",
+      "title": "“Supergpqa: Scaling llm evaluation across 285 graduate disciplines"
+    },
+    "312": {
+      "full_reference": "X. Wang, Z. Hu, P. Lu, Y. Zhu, J. Zhang, S. Subramaniam, A. R. Loomba, S. Zhang, Y. Sun, and W. Wang, “Scibench: Evaluating college- 26 level scientific problem-solving abilities of large language models,” arXiv preprint arXiv:2307.10635, 2023.",
+      "title": "“Scibench: Evaluating college- 26 level scientific problem-solving abilities of large language models"
+    },
+    "313": {
+      "full_reference": "A. Mirza, N. Alampara, S. Kunchapu, M. R´ıos-Garc´ıa, B. Emoekabu, A. Krishnan, T. Gupta, M. Schilling-Wilhelmi, M. Okereke, A. Aneesh et al., “Are large language models superhuman chemists?” arXiv preprint arXiv:2404.01475, 2024.",
+      "title": "“Are large language models superhuman chemists?”"
+    },
+    "314": {
+      "full_reference": "S. Auer, D. A. Barone, C. Bartz, E. G. Cortes, M. Y. Jaradeh, O. Karras, M. Koubarakis, D. Mouromtsev, D. Pliukhin, D. Radyush et al., “The sciqa scientific question answering benchmark for scholarly knowledge,” Scientific Reports, vol. 13, no. 1, p. 7240, 2023.",
+      "title": "S. Auer, D. A. Barone, C. Bartz, E. G. Cortes, M. Y. Jaradeh, O. Karras, M. Koubarakis, D. Mouromtsev, D. Pliukhin, D. Radyush et al., “The sciqa scie"
+    },
+    "315": {
+      "full_reference": "Y. Zhang and T. Math-AI, “American invitational mathematics exami- nation (aime) 2025,” 2025.",
+      "title": "Y. Zhang and T. Math-AI, “American invitational mathematics exami- nation (aime) 2025,” 2025."
+    },
+    "316": {
+      "full_reference": "C. He, R. Luo, Y. Bai, S. Hu, Z. Thai, J. Shen, J. Hu, X. Han, Y. Huang, Y. Zhang et al., “Olympiadbench: A challenging benchmark for promoting agi with olympiad-level bilingual multimodal scientific problems,” in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024, pp. 3828– 3850.",
+      "title": "“Olympiadbench: A challenging benchmark for promoting agi with olympiad-level bilingual multimodal scientific problems"
+    },
+    "317": {
+      "full_reference": "K. Cobbe, V. Kosaraju, M. Bavarian, M. Chen, H. Jun, L. Kaiser, M. Plappert, J. Tworek, J. Hilton, R. Nakano et al., “Training verifiers to solve math word problems,” arXiv preprint arXiv:2110.14168, 2021.",
+      "title": "“Training verifiers to solve math word problems"
+    },
+    "318": {
+      "full_reference": "D. Hendrycks, C. Burns, S. Kadavath, A. Arora, S. Basart, E. Tang, D. Song, and J. Steinhardt, “Measuring mathematical problem solving with the math dataset,” arXiv preprint arXiv:2103.03874, 2021.",
+      "title": "“Measuring mathematical problem solving with the math dataset"
+    },
+    "319": {
+      "full_reference": "Z. He, “amc23,” https://huggingface.co/datasets/zwhe99/amc23, 2024.",
+      "title": "Z. He, “amc23,” https://huggingface.co/datasets/zwhe99/amc23, 2024."
+    },
+    "320": {
+      "full_reference": "N. Jain, K. Han, A. Gu, W.-D. Li, F. Yan, T. Zhang, S. Wang, A. Solar-Lezama, K. Sen, and I. Stoica, “Livecodebench: Holistic and contamination free evaluation of large language models for code,” arXiv preprint arXiv:2403.07974, 2024.",
+      "title": "“Livecodebench: Holistic and contamination free evaluation of large language models for code"
+    },
+    "321": {
+      "full_reference": "T. Y. Zhuo, M. C. Vu, J. Chim, H. Hu, W. Yu, R. Widyasari, I. N. B. Yusuf, H. Zhan, J. He, I. Paul et al., “Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions,” arXiv preprint arXiv:2406.15877, 2024.",
+      "title": "“Bigcodebench: Benchmarking code generation with diverse function calls and complex instructions"
+    },
+    "322": {
+      "full_reference": "M. Chen, “Evaluating large language models trained on code,” arXiv preprint arXiv:2107.03374, 2021.",
+      "title": "“Evaluating large language models trained on code"
+    },
+    "323": {
+      "full_reference": "J. Austin, A. Odena, M. Nye, M. Bosma, H. Michalewski, D. Dohan, E. Jiang, C. Cai, M. Terry, Q. Le et al., “Program synthesis with large language models,” arXiv preprint arXiv:2108.07732, 2021.",
+      "title": "“Program synthesis with large language models"
+    },
+    "324": {
+      "full_reference": "J. Liu, C. S. Xia, Y. Wang, and L. Zhang, “Is your code generated by chatgpt really correct? rigorous evaluation of large language models for code generation,” Advances in Neural Information Processing Systems, vol. 36, pp. 21 558–21 572, 2023.",
+      "title": "J. Liu, C. S. Xia, Y. Wang, and L. Zhang, “Is your code generated by chatgpt really correct? rigorous evaluation of large language models for code gen"
+    },
+    "325": {
+      "full_reference": "F. Cassano, J. Gouwar, D. Nguyen, S. Nguyen, L. Phipps-Costin, D. Pinckney, M.-H. Yee, Y. Zi, C. J. Anderson, M. Q. Feldman et al., “Multipl-e: A scalable and extensible approach to benchmarking neural code generation,” arXiv preprint arXiv:2208.08227, 2022.",
+      "title": "“Multipl-e: A scalable and extensible approach to benchmarking neural code generation"
+    },
+    "326": {
+      "full_reference": "A. Gu, B. Rozi`ere, H. Leather, A. Solar-Lezama, G. Synnaeve, and S. I. Wang, “Cruxeval: A benchmark for code reasoning, understanding and execution,” arXiv preprint arXiv:2401.03065, 2024.",
+      "title": "understanding and execution"
+    },
+    "327": {
+      "full_reference": "S. Zhou, F. F. Xu, H. Zhu, X. Zhou, R. Lo, A. Sridhar, X. Cheng, T. Ou, Y. Bisk, D. Fried et al., “Webarena: A realistic web environment for building autonomous agents,” arXiv preprint arXiv:2307.13854, 2023.",
+      "title": "“Webarena: A realistic web environment for building autonomous agents"
+    },
+    "328": {
+      "full_reference": "S. Yao, H. Chen, J. Yang, and K. Narasimhan, “Webshop: Towards scalable real-world web interaction with grounded language agents,” Advances in Neural Information Processing Systems, vol. 35, pp. 20 744– 20 757, 2022.",
+      "title": "S. Yao, H. Chen, J. Yang, and K. Narasimhan, “Webshop: Towards scalable real-world web interaction with grounded language agents,” Advances in Neural "
+    },
+    "329": {
+      "full_reference": "Y. Deng, X. Zhang, W. Zhang, Y. Yuan, S. K. Ng, and T.-S. Chua, “On the multi-turn instruction following for conversational web agents,” in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024, pp. 8795– 8812.",
+      "title": "“On the multi-turn instruction following for conversational web agents"
+    },
+    "330": {
+      "full_reference": "X. Deng, Y. Gu, B. Zheng, S. Chen, S. Stevens, B. Wang, H. Sun, and Y. Su, “Mind2web: Towards a generalist agent for the web,” Advances in Neural Information Processing Systems, vol. 36, pp. 28 091–28 114, 2023.",
+      "title": "X. Deng, Y. Gu, B. Zheng, S. Chen, S. Stevens, B. Wang, H. Sun, and Y. Su, “Mind2web: Towards a generalist agent for the web,” Advances in Neural Info"
+    },
+    "331": {
+      "full_reference": "J. Y. Koh, R. Lo, L. Jang, V. Duvvur, M. Lim, P.-Y. Huang, G. Neubig, S. Zhou, R. Salakhutdinov, and D. Fried, “Visualwebarena: Evaluating multimodal agents on realistic visual web tasks,” in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), 2024, pp. 881–905.",
+      "title": "“Visualwebarena: Evaluating multimodal agents on realistic visual web tasks"
+    },
+    "332": {
+      "full_reference": "Y. Qin, S. Liang, Y. Ye, K. Zhu, L. Yan, Y. Lu, Y. Lin, X. Cong, X. Tang, B. Qian et al., “Toolllm: Facilitating large language models to master 16000+ real-world apis,” arXiv preprint arXiv:2307.16789, 2023.",
+      "title": "“Toolllm: Facilitating large language models to master 16000+ real-world apis"
+    },
+    "333": {
+      "full_reference": "M. Chang, J. Zhang, Z. Zhu, C. Yang, Y. Yang, Y. Jin, Z. Lan, L. Kong, and J. He, “Agentboard: An analytical evaluation board of multi-turn llm agents,” Advances in neural information processing systems, vol. 37, pp. 74 325–74 362, 2024.",
+      "title": "M. Chang, J. Zhang, Z. Zhu, C. Yang, Y. Yang, Y. Jin, Z. Lan, L. Kong, and J. He, “Agentboard: An analytical evaluation board of multi-turn llm agents"
+    },
+    "334": {
+      "full_reference": "M. Shridhar, X. Yuan, M.-A. Cˆot´e, Y. Bisk, A. Trischler, and M. Hausknecht, “Alfworld: Aligning text and embodied environments for interactive learning,” arXiv preprint arXiv:2010.03768, 2020.",
+      "title": "“Alfworld: Aligning text and embodied environments for interactive learning"
+    },
+    "335": {
+      "full_reference": "X. Liu, H. Yu, H. Zhang, Y. Xu, X. Lei, H. Lai, Y. Gu, H. Ding, K. Men, K. Yang et al., “Agentbench: Evaluating llms as agents,” arXiv preprint arXiv:2308.03688, 2023.",
+      "title": "“Agentbench: Evaluating llms as agents"
+    },
+    "336": {
+      "full_reference": "G. Mialon, C. Fourrier, T. Wolf, Y. LeCun, and T. Scialom, “Gaia: a benchmark for general ai assistants,” in The Twelfth International Conference on Learning Representations, 2023.",
+      "title": "G. Mialon, C. Fourrier, T. Wolf, Y. LeCun, and T. Scialom, “Gaia: a benchmark for general ai assistants,” in The Twelfth International Conference on L"
+    },
+    "337": {
+      "full_reference": "C. E. Jimenez, J. Yang, A. Wettig, S. Yao, K. Pei, O. Press, and K. Narasimhan, “Swe-bench: Can language models resolve real-world github issues?” arXiv preprint arXiv:2310.06770, 2023.",
+      "title": "“Swe-bench: Can language models resolve real-world github issues?”"
+    },
+    "338": {
+      "full_reference": "T. T.-B. Team, “Terminal-bench: A benchmark for ai agents in terminal environments,” Apr 2025. [Online]. Available: https: //github.com/laude-institute/terminal-bench",
+      "title": "T. T.-B. Team, “Terminal-bench: A benchmark for ai agents in terminal environments,” Apr 2025. [Online]. Available: https: //github.com/laude-institut"
+    },
+    "339": {
+      "full_reference": "T. Xie, D. Zhang, J. Chen, X. Li, S. Zhao, R. Cao, T. J. Hua, Z. Cheng, D. Shin, F. Lei et al., “Osworld: Benchmarking multimodal agents for open-ended tasks in real computer environments,” Advances in Neural Information Processing Systems, vol. 37, pp. 52 040–52 094, 2024.",
+      "title": "T. Xie, D. Zhang, J. Chen, X. Li, S. Zhao, R. Cao, T. J. Hua, Z. Cheng, D. Shin, F. Lei et al., “Osworld: Benchmarking multimodal agents for open-ende"
+    },
+    "340": {
+      "full_reference": "H. Chase, “LangChain,” Oct. 2022. [Online]. Available: https: //github.com/langchain-ai/langchain",
+      "title": "H. Chase, “LangChain,” Oct. 2022. [Online]. Available: https: //github.com/langchain-ai/langchain"
+    },
+    "341": {
+      "full_reference": "J. Liu, “LlamaIndex,” 11 2022. [Online]. Available: https://github.com/ jerryjliu/llama index",
+      "title": "J. Liu, “LlamaIndex,” 11 2022. [Online]. Available: https://github.com/ jerryjliu/llama index"
+    },
+    "342": {
+      "full_reference": "Q. Wu, G. Bansal, J. Zhang, Y. Wu, B. Li, E. Zhu, L. Jiang, X. Zhang, S. Zhang, J. Liu et al., “Autogen: Enabling next-gen llm applications via multi-agent conversations,” in First Conference on Language Modeling, 2024.",
+      "title": "Q. Wu, G. Bansal, J. Zhang, Y. Wu, B. Li, E. Zhu, L. Jiang, X. Zhang, S. Zhang, J. Liu et al., “Autogen: Enabling next-gen llm applications via multi-"
+    },
+    "343": {
+      "full_reference": "S. Hong, M. Zhuge, J. Chen, X. Zheng, Y. Cheng, J. Wang, C. Zhang, Z. Wang, S. K. S. Yau, Z. Lin et al., “Metagpt: Meta programming for a multi-agent collaborative framework,” in The twelfth international conference on learning representations, 2023.",
+      "title": "S. Hong, M. Zhuge, J. Chen, X. Zheng, Y. Cheng, J. Wang, C. Zhang, Z. Wang, S. K. S. Yau, Z. Lin et al., “Metagpt: Meta programming for a multi-agent "
+    },
+    "344": {
+      "full_reference": "M. Shoeybi, M. Patwary, R. Puri, P. LeGresley, J. Casper, and B. Catanzaro, “Megatron-lm: Training multi-billion parameter language models using model parallelism,” arXiv preprint arXiv:1909.08053, 2019.",
+      "title": "“Megatron-lm: Training multi-billion parameter language models using model parallelism"
+    },
+    "345": {
+      "full_reference": "J. Rasley, S. Rajbhandari, O. Ruwase, and Y. He, “Deepspeed: System optimizations enable training deep learning models with over 100 billion parameters,” in Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining, 2020, pp. 3505– 3506.",
+      "title": "“Deepspeed: System optimizations enable training deep learning models with over 100 billion parameters"
+    },
+    "346": {
+      "full_reference": "Z. Zhu, C. Xie, X. Lv, and slime Contributors, “slime: An llm post- training framework for rl scaling,” https://github.com/THUDM/slime, 2025, gitHub repository. Corresponding author: Xin Lv.",
+      "title": "Z. Zhu, C. Xie, X. Lv, and slime Contributors, “slime: An llm post- training framework for rl scaling,” https://github.com/THUDM/slime, 2025, gitHub r"
+    },
+    "347": {
+      "full_reference": "G. Sheng, C. Zhang, Z. Ye, X. Wu, W. Zhang, R. Zhang, Y. Peng, H. Lin, and C. Wu, “Hybridflow: A flexible and efficient rlhf framework,” arXiv preprint arXiv: 2409.19256, 2024.",
+      "title": "“Hybridflow: A flexible and efficient rlhf framework"
+    },
+    "348": {
+      "full_reference": "J. Hu, X. Wu, Z. Zhu, Xianyu, W. Wang, D. Zhang, and Y. Cao, “Open- rlhf: An easy-to-use, scalable and high-performance rlhf framework,” arXiv preprint arXiv:2405.11143, 2024.",
+      "title": "scalable and high-performance rlhf framework"
+    },
+    "349": {
+      "full_reference": "L. von Werra, Y. Belkada, L. Tunstall, E. Beeching, T. Thrush, N. Lambert, S. Huang, K. Rasul, and Q. Gallou´edec, “TRL: Transformers Reinforcement Learning,” 2020. [Online]. Available: https://github.com/huggingface/trl",
+      "title": "L. von Werra, Y. Belkada, L. Tunstall, E. Beeching, T. Thrush, N. Lambert, S. Huang, K. Rasul, and Q. Gallou´edec, “TRL: Transformers Reinforcement Le"
+    },
+    "350": {
+      "full_reference": "Y. Zheng, R. Zhang, J. Zhang, Y. Ye, Z. Luo, Z. Feng, and Y. Ma, “Llamafactory: Unified efficient fine-tuning of 100+ language models,” in Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 3: System Demonstrations). Bangkok, Thailand: Association for Computational Linguistics, 2024. [Online]. Available: http://arxiv.org/abs/2403.13372",
+      "title": "“Llamafactory: Unified efficient fine-tuning of 100+ language models"
+    },
+    "351": {
+      "full_reference": "M. H. Daniel Han and U. team, “Unsloth,” 2023. [Online]. Available: http://github.com/unslothai/unsloth",
+      "title": "M. H. Daniel Han and U. team, “Unsloth,” 2023. [Online]. Available: http://github.com/unslothai/unsloth"
+    },
+    "352": {
+      "full_reference": "W. Kwon, Z. Li, S. Zhuang, Y. Sheng, L. Zheng, C. H. Yu, J. E. Gonzalez, H. Zhang, and I. Stoica, “Efficient memory management for large language model serving with pagedattention,” in Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles, 2023.",
+      "title": "“Efficient memory management for large language model serving with pagedattention"
+    },
+    "353": {
+      "full_reference": "L. Zheng, L. Yin, Z. Xie, C. L. Sun, J. Huang, C. H. Yu, S. Cao, C. Kozyrakis, I. Stoica, J. E. Gonzalez et al., “Sglang: Efficient execution of structured language model programs,” Advances in neural information processing systems, vol. 37, pp. 62 557–62 583, 2024.",
+      "title": "L. Zheng, L. Yin, Z. Xie, C. L. Sun, J. Huang, C. H. Yu, S. Cao, C. Kozyrakis, I. Stoica, J. E. Gonzalez et al., “Sglang: Efficient execution of struc"
+    }
+  }
+}

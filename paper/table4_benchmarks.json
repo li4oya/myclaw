@@ -1,0 +1,447 @@
+{
+  "table": "Table IV: Taxonomy of Evaluation Benchmarks for Self-Evolving Agents Systems",
+  "total_benchmarks": 49,
+  "benchmarks": [
+    {
+      "name": "MMLU-Pro",
+      "ref_number": 295,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "MCQ(10-options)",
+      "key_features": "RobustReasoning,LowNoise",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "HotpotQA",
+      "ref_number": 296,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "ExtractiveQA",
+      "key_features": "Multi -hop,SupportingFacts",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "MMLU",
+      "ref_number": 297,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "MCQ(4-options)",
+      "key_features": "57Disciplines,BroadCoverage",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "MuSiQue",
+      "ref_number": 298,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "ExtractiveQA",
+      "key_features": "ConnectedMulti -hop,Harder §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "NQ",
+      "ref_number": 299,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "Short/LongQA",
+      "key_features": "RealUserQueries,Open -Domain §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "TriviaQA",
+      "ref_number": 300,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "QA",
+      "key_features": "ReadingComp.,EvidenceTriples",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "PopQA",
+      "ref_number": 301,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "ShortQA",
+      "key_features": "Long -TailEntities,RAGFocus",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "2WikiMultiHopQA",
+      "ref_number": 302,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "QA",
+      "key_features": "StructuredReasoningPaths",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "BBH",
+      "ref_number": 303,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "Mixed(QA/MCQ)",
+      "key_features": "HardBIG -BenchSubset,CoT §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "AGIEval",
+      "ref_number": 304,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "MCQ",
+      "key_features": "Human -CentricExams(SAT/LSAT) §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "ARC",
+      "ref_number": 305,
+      "domain": "GeneralKnowledge",
+      "modality": "Visual",
+      "task_format": "GridGeneration",
+      "key_features": "Abstraction,Few -Shot,CoreKnowledge §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "ARC-AGI",
+      "ref_number": 306,
+      "domain": "AbstractReasoning",
+      "modality": "Visual",
+      "task_format": "GridTransformation",
+      "key_features": "FluidIntelligence,Human -easyAI-hard §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "NarrativeQA",
+      "ref_number": 307,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "GenerativeQA",
+      "key_features": "VeryLongContext(Books/Scripts) §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "LongBench",
+      "ref_number": 308,
+      "domain": "GeneralKnowledge",
+      "modality": "Text",
+      "task_format": "Mixed",
+      "key_features": "LongContext,Multi -TaskEval §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "HLE",
+      "ref_number": 309,
+      "domain": "GeneralKnowledge",
+      "modality": "Multimodal",
+      "task_format": "Mixed(MCQ/QA)",
+      "key_features": "FrontierKnowledge,Un -googleable",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "GPQA",
+      "ref_number": 310,
+      "domain": "ScientificReasoning",
+      "modality": "Text",
+      "task_format": "MCQ",
+      "key_features": "PhD -Level,Google-Proof §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "SuperGPQA",
+      "ref_number": 311,
+      "domain": "ScientificReasoning",
+      "modality": "Text",
+      "task_format": "MCQ",
+      "key_features": "285Disciplines,LightIndustry/Agri",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "SciBench",
+      "ref_number": 312,
+      "domain": "ScientificReasoning",
+      "modality": "Text",
+      "task_format": "QA",
+      "key_features": "College -Level,Step-by-StepCalc §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "ChemBench",
+      "ref_number": 313,
+      "domain": "ScientificReasoning",
+      "modality": "Text",
+      "task_format": "Mixed",
+      "key_features": "Chemistry,AutonomousLabs §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "SciQA",
+      "ref_number": 314,
+      "domain": "ScientificReasoning",
+      "modality": "Text",
+      "task_format": "QA",
+      "key_features": "KnowledgeGraph,ScientificData",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "AIME",
+      "ref_number": 315,
+      "domain": "MathematicalReasoning",
+      "modality": "Text",
+      "task_format": "NumericQA",
+      "key_features": "MathCompetition,HardDifficulty",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "OlympiadBench",
+      "ref_number": 316,
+      "domain": "MathematicalReasoning",
+      "modality": "Multimodal",
+      "task_format": "Mixed(QA/MCQ)",
+      "key_features": "VisualReasoning,Olympiad -Level §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "GSM8K",
+      "ref_number": 317,
+      "domain": "MathematicalReasoning",
+      "modality": "Text",
+      "task_format": "NumericQA",
+      "key_features": "GradeSchoolMath,CoTFocus",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "MATH",
+      "ref_number": 318,
+      "domain": "MathematicalReasoning",
+      "modality": "Text",
+      "task_format": "Latex/QA",
+      "key_features": "ChallengingMath,DiverseTopics",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "AMC",
+      "ref_number": 319,
+      "domain": "MathematicalReasoning",
+      "modality": "Text",
+      "task_format": "MCQ",
+      "key_features": "Pre -Olympiad,CompetitionMath",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "LiveCodeBench",
+      "ref_number": 320,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "FunctionGen",
+      "key_features": "Contamination -Free,LiveData §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "BigCodeBench",
+      "ref_number": 321,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "Function/FullGen",
+      "key_features": "ComplexLibraries,InstructionFollowing §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "HumanEval",
+      "ref_number": 322,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "FunctionGen",
+      "key_features": "FunctionalCorrectness,Docstrings §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "MBPP",
+      "ref_number": 323,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "FunctionGen",
+      "key_features": "BasicProgramming,Semantic §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "EvalPlus",
+      "ref_number": 324,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "FunctionGen",
+      "key_features": "RigorousEval,80xTestCases §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "MultiPL-E",
+      "ref_number": 325,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "FunctionGen(Polyglot)",
+      "key_features": "18 +Languages,ParallelCorpus §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "CRUXEval",
+      "ref_number": 326,
+      "domain": "CodeGeneration",
+      "modality": "Text",
+      "task_format": "Input/OutputPrediction",
+      "key_features": "ExecutionSimulation,CoTFocus §",
+      "category": "Intrinsic Capabilities"
+    },
+    {
+      "name": "WebArena",
+      "ref_number": 327,
+      "domain": "WebNavigation",
+      "modality": "Text/HTML",
+      "task_format": "Env.Interaction",
+      "key_features": "RealisticTasks,Long -Horizon §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "WebShop",
+      "ref_number": 328,
+      "domain": "WebNavigation",
+      "modality": "Text",
+      "task_format": "Env.Interaction",
+      "key_features": "E -commerce,DecisionMaking §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "MT-Mind2Web",
+      "ref_number": 329,
+      "domain": "WebNavigation",
+      "modality": "Text",
+      "task_format": "ActionSeq.",
+      "key_features": "Multi -Turn,Generalization",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "Mind2Web",
+      "ref_number": 330,
+      "domain": "WebNavigation",
+      "modality": "Text",
+      "task_format": "ActionSeq.",
+      "key_features": "GeneralistAgent,RealDOM §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "WebVoyager",
+      "ref_number": 104,
+      "domain": "WebNavigation",
+      "modality": "Multimodal",
+      "task_format": "Env.Interaction",
+      "key_features": "End -to-End,VisualNavigation §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "VisualWebArena",
+      "ref_number": 331,
+      "domain": "WebNavigation",
+      "modality": "Multimodal",
+      "task_format": "Env.Interaction",
+      "key_features": "Visual/HTML,HybridInteraction §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "ToolLLM",
+      "ref_number": 332,
+      "domain": "ToolUsage",
+      "modality": "Text",
+      "task_format": "APICalls",
+      "key_features": "Large -ScaleAPIs,InstructionTuning §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "AgentGym",
+      "ref_number": 198,
+      "domain": "UnifiedFrameworks",
+      "modality": "Multimodal",
+      "task_format": "Env.Interaction",
+      "key_features": "InteractiveLearning,Diversity §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "AgentBoard",
+      "ref_number": 333,
+      "domain": "UnifiedFrameworks",
+      "modality": "Multimodal",
+      "task_format": "Env.Interaction",
+      "key_features": "AnalyticDashboard,UnifiedEval §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "ReasoningGym",
+      "ref_number": 196,
+      "domain": "UnifiedFrameworks",
+      "modality": "Text",
+      "task_format": "Interaction",
+      "key_features": "Algorithmic,DynamicTasks §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "ALFWorld",
+      "ref_number": 334,
+      "domain": "UnifiedFrameworks",
+      "modality": "Text",
+      "task_format": "TextInteraction",
+      "key_features": "Text -World,HouseholdTasks §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "AgentBench",
+      "ref_number": 335,
+      "domain": "UnifiedFrameworks",
+      "modality": "Text",
+      "task_format": "Mixed",
+      "key_features": "Comprehensive,Multi -Environment §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "GAIA",
+      "ref_number": 336,
+      "domain": "UnifiedFrameworks",
+      "modality": "Multimodal",
+      "task_format": "QAw/Tools",
+      "key_features": "GeneralAssistant,HardReasoning",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "DeepResearchBench",
+      "ref_number": 108,
+      "domain": "UnifiedFrameworks",
+      "modality": "Text",
+      "task_format": "WebSearch",
+      "key_features": "Long -formResearch,CitationEval §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "SWE-bench",
+      "ref_number": 337,
+      "domain": "SoftwareEngineering",
+      "modality": "Text",
+      "task_format": "PatchGen",
+      "key_features": "RealGitHubIssues,Repo -Level §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "Terminal-Bench",
+      "ref_number": 338,
+      "domain": "OSOperations",
+      "modality": "Text",
+      "task_format": "CLIInteraction",
+      "key_features": "LinuxCommandLine,Security §",
+      "category": "Agentic Reasoning Capabilities"
+    },
+    {
+      "name": "OSWorld",
+      "ref_number": 339,
+      "domain": "OSOperations",
+      "modality": "Multimodal",
+      "task_format": "GUI/Desktop",
+      "key_features": "Cross -App,FullOSControl §",
+      "category": "Agentic Reasoning Capabilities"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+Table 4: Taxonomy of Evaluation Benchmarks for Self-Evolving Agents Systems
+==================================================================================================================================
+1. WebVoyager[104] | WebNavigation | Multimodal | Env.Interaction | End-to-End,VisualNavigation §
+2. DeepResearchBench[108] | UnifiedFrameworks | Text | WebSearch | Long-formResearch,CitationEval §
+3. ReasoningGym[196] | UnifiedFrameworks | Text | Interaction | Algorithmic,DynamicTasks §
+4. AgentGym[198] | UnifiedFrameworks | Multimodal | Env.Interaction | InteractiveLearning,Diversity §
+5. MMLU-Pro[295] | GeneralKnowledge | Text | MCQ(10-options) | RobustReasoning,LowNoise
+6. HotpotQA[296] | GeneralKnowledge | Text | ExtractiveQA | Multi-hop,SupportingFacts
+7. MMLU[297] | GeneralKnowledge | Text | MCQ(4-options) | 57Disciplines,BroadCoverage
+8. MuSiQue[298] | GeneralKnowledge | Text | ExtractiveQA | ConnectedMulti-hop,Harder §
+9. NQ[299] | GeneralKnowledge | Text | Short/LongQA | RealUserQueries,Open-Domain §
+10. TriviaQA[300] | GeneralKnowledge | Text | QA | ReadingComp.,EvidenceTriples
+11. PopQA[301] | GeneralKnowledge | Text | ShortQA | Long-TailEntities,RAGFocus
+12. 2WikiMultiHopQA[302] | GeneralKnowledge | Text | QA | StructuredReasoningPaths
+13. BBH[303] | GeneralKnowledge | Text | Mixed(QA/MCQ) | HardBIG-BenchSubset,CoT §
+14. AGIEval[304] | GeneralKnowledge | Text | MCQ | Human-CentricExams(SAT/LSAT) §
+15. ARC[305] | GeneralKnowledge | Visual | GridGeneration | Abstraction,Few-Shot,CoreKnowledge §
+16. ARC-AGI[306] | AbstractReasoning | Visual | GridTransformation | FluidIntelligence,Human-easyAI-hard §
+17. NarrativeQA[307] | GeneralKnowledge | Text | GenerativeQA | VeryLongContext(Books/Scripts) §
+18. LongBench[308] | GeneralKnowledge | Text | Mixed | LongContext,Multi-TaskEval §
+19. HLE[309] | GeneralKnowledge | Multimodal | Mixed(MCQ/QA) | FrontierKnowledge,Un-googleable
+20. GPQA[310] | ScientificReasoning | Text | MCQ | PhD-Level,Google-Proof §
+21. SuperGPQA[311] | ScientificReasoning | Text | MCQ | 285Disciplines,LightIndustry/Agri
+22. SciBench[312] | ScientificReasoning | Text | QA | College-Level,Step-by-StepCalc §
+23. ChemBench[313] | ScientificReasoning | Text | Mixed | Chemistry,AutonomousLabs §
+24. SciQA[314] | ScientificReasoning | Text | QA | KnowledgeGraph,ScientificData
+25. AIME[315] | MathematicalReasoning | Text | NumericQA | MathCompetition,HardDifficulty
+26. OlympiadBench[316] | MathematicalReasoning | Multimodal | Mixed(QA/MCQ) | VisualReasoning,Olympiad-Level §
+27. GSM8K[317] | MathematicalReasoning | Text | NumericQA | GradeSchoolMath,CoTFocus
+28. MATH[318] | MathematicalReasoning | Text | Latex/QA | ChallengingMath,DiverseTopics
+29. AMC[319] | MathematicalReasoning | Text | MCQ | Pre-Olympiad,CompetitionMath
+30. LiveCodeBench[320] | CodeGeneration | Text | FunctionGen | Contamination-Free,LiveData §
+31. BigCodeBench[321] | CodeGeneration | Text | Function/FullGen | ComplexLibraries,InstructionFollowing §
+32. HumanEval[322] | CodeGeneration | Text | FunctionGen | FunctionalCorrectness,Docstrings §
+33. MBPP[323] | CodeGeneration | Text | FunctionGen | BasicProgramming,Semantic §
+34. EvalPlus[324] | CodeGeneration | Text | FunctionGen | RigorousEval,80xTestCases §
+35. MultiPL-E[325] | CodeGeneration | Text | FunctionGen(Polyglot) | 18+Languages,ParallelCorpus §
+36. CRUXEval[326] | CodeGeneration | Text | Input/OutputPrediction | ExecutionSimulation,CoTFocus §
+37. WebArena[327] | WebNavigation | Text/HTML | Env.Interaction | RealisticTasks,Long-Horizon §
+38. WebShop[328] | WebNavigation | Text | Env.Interaction | E-commerce,DecisionMaking §
+39. MT-Mind2Web[329] | WebNavigation | Text | ActionSeq. | Multi-Turn,Generalization
+40. Mind2Web[330] | WebNavigation | Text | ActionSeq. | GeneralistAgent,RealDOM §
+41. VisualWebArena[331] | WebNavigation | Multimodal | Env.Interaction | Visual/HTML,HybridInteraction §
+42. ToolLLM[332] | ToolUsage | Text | APICalls | Large-ScaleAPIs,InstructionTuning §
+43. AgentBoard[333] | UnifiedFrameworks | Multimodal | Env.Interaction | AnalyticDashboard,UnifiedEval §
+44. ALFWorld[334] | UnifiedFrameworks | Text | TextInteraction | Text-World,HouseholdTasks §
+45. AgentBench[335] | UnifiedFrameworks | Text | Mixed | Comprehensive,Multi-Environment §
+46. GAIA[336] | UnifiedFrameworks | Multimodal | QAw/Tools | GeneralAssistant,HardReasoning
+47. SWE-bench[337] | SoftwareEngineering | Text | PatchGen | RealGitHubIssues,Repo-Level §
+48. Terminal-Bench[338] | OSOperations | Text | CLIInteraction | LinuxCommandLine,Security §
+49. OSWorld[339] | OSOperations | Multimodal | GUI/Desktop | Cross-App,FullOSControl §
+
+Total: 49 benchmarks
