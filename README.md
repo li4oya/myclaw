@@ -1,6 +1,6 @@
 # myclaw
 
-`myclaw` 是一个基于本仓库 `s01-s08` 思路拼出来的简版 Agent。
+`myclaw` 是一个基于learn-claude-code仓库 `s01-s08` 思路拼出来的简版 Agent。
 
 它的目标不是复刻 `s_full.py` 的全部复杂协议，而是在更小的实现里把下面几件事连起来：
 
