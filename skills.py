@@ -74,7 +74,7 @@ class SkillRegistry:
         self.skills = {}
         self.duplicate_skill_names = {}
         for skill_file in sorted(self.skills_dir.rglob("SKILL.md")):
-            text = skill_file.read_text()
+            text = skill_file.read_text(encoding="utf-8")
             meta, body = _parse_frontmatter(text)
             name = meta.get("name", skill_file.parent.name)
             if name in self.skills:
@@ -130,7 +130,7 @@ class SkillRegistry:
         skill_dir = self.skills_dir / name
         skill_dir.mkdir(parents=True, exist_ok=True)
         path = skill_dir / "SKILL.md"
-        path.write_text(content)
+        path.write_text(content, encoding="utf-8")
         self.reload()
         return path
 

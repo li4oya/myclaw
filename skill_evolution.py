@@ -3,7 +3,6 @@ from __future__ import annotations
 import json
 import re
 import time
-from pathlib import Path
 from typing import Callable
 
 from myclaw.config import EVOLUTION_DIR
@@ -87,6 +86,6 @@ class SkillEvolutionEngine:
             "timestamp": time.time(),
         }
         log_path = EVOLUTION_DIR / f"{int(time.time())}_{skill_name}.json"
-        log_path.write_text(json.dumps(log, indent=2, ensure_ascii=False))
+        log_path.write_text(json.dumps(log, indent=2, ensure_ascii=False), encoding="utf-8")
         self.registry.reload()
         return log

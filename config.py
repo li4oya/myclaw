@@ -9,8 +9,7 @@ load_dotenv(override=True)
 if os.getenv("ANTHROPIC_BASE_URL"):
     os.environ.pop("ANTHROPIC_AUTH_TOKEN", None)
 
-PACKAGE_DIR = Path(__file__).resolve().parent
-WORKDIR = PACKAGE_DIR.parent
+WORKDIR = Path(__file__).resolve().parent
 
 STATE_DIR = WORKDIR / ".myclaw"
 PLANS_DIR = STATE_DIR / "plans"
@@ -19,9 +18,14 @@ TRANSCRIPTS_DIR = STATE_DIR / "transcripts"
 EVOLUTION_DIR = STATE_DIR / "evolution"
 
 SKILL_SOURCE_DIR = WORKDIR / "skill_for_claw"
-SKILLS_DIR = PACKAGE_DIR / "skills"
+SKILLS_DIR = WORKDIR / "skills"
 
-MODEL = os.environ["MODEL_ID"]
+MODEL = os.getenv("MODEL_ID", "")
+if not MODEL:
+    raise RuntimeError(
+        "Environment variable MODEL_ID is not set. "
+        "Please configure it before running myclaw."
+    )
 CLIENT = Anthropic(base_url=os.getenv("ANTHROPIC_BASE_URL"))
 
 MAX_TOOL_OUTPUT = 50000

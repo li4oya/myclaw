@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import json
 import time
 from pathlib import Path
@@ -49,7 +51,7 @@ def auto_compact(
 ) -> list:
     transcript_dir.mkdir(parents=True, exist_ok=True)
     transcript_path = transcript_dir / f"transcript_{int(time.time())}.jsonl"
-    with open(transcript_path, "w") as handle:
+    with open(transcript_path, "w", encoding="utf-8") as handle:
         for msg in messages:
             handle.write(json.dumps(msg, default=str, ensure_ascii=False) + "\n")
 
